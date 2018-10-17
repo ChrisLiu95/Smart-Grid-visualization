@@ -1,0 +1,1462 @@
+{
+  "node 0": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 1": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 2": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 3": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 4": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 5": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 6": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 7": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 8": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  },
+  "node 9": {
+    "t0": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 100,
+      "real power": 100,
+      "reactive power": 100,
+      "phases": "A"
+    }
+  }
+}

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Grid visualization</title>
+
+    <link rel="icon" href="http://getbootstrap.com/favicon.ico">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <style>
+    body { padding-top:50px; }.navbar-inverse .navbar-nav > li > a { color: #FFFFFF; }
+	</style>
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+	    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	      <div class="container">
+	        <div class="navbar-header">
+	          <img src="USC-logo.jpg" height="18" alt="Edmunds" class="navbar-brand">
+	          <a class="navbar-brand" href="https://www.usc.edu" style="color:white; font-size: 16px">USC - Data Science Lab</a>
+	        </div>
+	      </div>
+	    </nav>
+
+      <div style="max-width: 650px; margin: auto;">
+        <h1 class="page-header">Smart Grid visualization</h1>
+        <p class="lead">Please select a topology file</p>
+
+        <form id="upload-image-form" onsubmit="return false">
+          <div id="image-preview-div" style="display: none">
+            <label for="exampleInputFile">Selected image:</label>
+            <br>
+<!--             <img id="preview-img" src="noimage"> -->
+          </div>
+          <div class="form-group">
+            <input type="file" name="csv" id="file" required>
+          </div>
+          <button class="btn btn-lg btn-primary" id="upload-button" >Confirm</button>
+        </form>
+
+        <br>
+        <button class="btn btn-lg btn-primary" id="json"  style = "display: none">Import Json file</button>
+
+        <br>
+        <div class="alert alert-info" id="loading" style="display: none;" role="alert">
+          Parsing topology file ...
+          <div class="progress">
+            <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+            </div>
+          </div>
+        </div>
+        <div id="message"></div>
+      </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="/Users/Lxc/Desktop/DR/PapaParse-4.6.0/papaparse.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>  
+<!--     <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.6.0"></script>
+	<script type="text/javascript" src="http://mbostock.github.com/d3/d3.layout.js?2.6.0"></script>
+	<script type="text/javascript" src="http://mbostock.github.com/d3/d3.geom.js?2.6.0"></script> -->
+	<script>
+		// Parse local CSV file
+		$('#upload-button').click(function(){
+			var file = document.getElementById("file").files[0];
+
+			var config = {
+			delimiter: "",	// auto-detect
+			newline: "",	// auto-detect
+			quoteChar: '"',
+			escapeChar: '"',
+			header: false,
+			trimHeaders: false,
+			dynamicTyping: false,
+			preview: 0,
+			encoding: "",
+			worker: false,
+			comments: false,
+			step: undefined,
+			complete: undefined,
+			error: undefined,
+			download: false,
+			skipEmptyLines: false,
+			chunk: undefined,
+			fastMode: undefined,
+			beforeFirstChunk: undefined,
+			withCredentials: undefined,
+			transform: undefined
+			};
+
+			$('#json').css('display', "");
+
+			$('#json').click(function(){
+				$.ajax({
+				   url: "http://127.0.0.1:8081",//json文件位置
+				   type: "GET",//请求方式为get
+				   dataType: "json", //返回数据格式为json
+				   success: function(data) {//请求成功完成后要执行的方法 
+				       //each循环 使用$.each方法遍历返回的数据date
+				       // alert(data.length);
+				       // alert(data[0]);
+				       alert(JSON.stringify(data));
+				   }
+				})
+			});
+
+		    Papa.parse(file, {
+		        complete: function(results) {
+		        	var data = results.data;
+		        	var i = data.length;
+		        	var mydata = new Array(i);
+		            // console.log("Finished:", results.data);
+		            while(i--){
+		            	mydata[i] = new Array(data[i][1], data[i][3]);
+		            }
+		            // console.log(mydata);  // pairs of links that connected with each others
+		            // $('#message').html("success!");
+
+		   // //          var nodes = [ { name: "P1"  }, { name: "P2" },
+					// //   { name: "P3"  }, { name: "P4"  },
+					// //   { name: "P5"  }, { name: "P6"  },
+					// //   { name: "P7"}
+					// // ];
+
+					var nodes = [];
+					var edges = [];
+
+					var myset = new Set();
+
+					for(var i = 2; i < mydata.length; i++){
+						for(var j=0; j < mydata[i].length; j++){
+							if(mydata[i][j][0] != ""){
+								myset.add(mydata[i][j]);
+							};
+						};
+					};
+
+					var unique_nodes = Array.from(myset);
+
+
+					// console.log(unique_nodes);
+
+					for(var i = 0; i < unique_nodes.length; i++) {
+						var s = 1;  // if the node belongs to primary system, s = 1, else, s = 0
+						if(unique_nodes[i][0]=='S'){
+							s = 0;
+						}
+						var node = {
+							label : unique_nodes[i],
+							system: s
+						};
+						nodes.push(node);
+					};
+
+					console.log(nodes[0]);
+
+					// //  ["P1", "P2"]
+					for(var i = 2; i < mydata.length; i++){
+						var edge = {
+							source: unique_nodes.indexOf(mydata[i][0]), 
+							target: unique_nodes.indexOf(mydata[i][1])
+						};
+						edges.push(edge);
+					};
+				 
+					// // var edges = [  { source : 0  , target: 1 } , { source : 1  , target: 2 } ,
+					// // 			   { source : 1  , target: 6 } , { source : 1  , target: 4 } ,
+					// // 			   { source : 1  , target: 5 } , { source : 1  , target: 6 }  ];	
+					
+					var width = 1000;
+					var height = 800;
+					
+					
+					var svg = d3.select("body")
+								.append("svg")
+								.attr("width",width)
+								.attr("height",height);
+					
+					var force = d3.layout.force()
+							.nodes(nodes)		//指定节点数组
+							.links(edges)		//指定连线数组
+							.size([width,height])	//指定范围
+							.linkDistance(150)	//指定连线长度
+							.charge(-400);	//相互之间的作用力
+
+					force.start();	//开始作用
+
+					// console.log(nodes);
+					// console.log(edges);
+					var color = d3.scale.category20();  // colors 
+					
+					//添加连线		
+					var svg_edges = svg.selectAll("line")
+										.data(edges)
+										.enter()
+										.append("line")
+										.style("stroke", function(d, i){
+											if(d.source.label[0] == d.target.label[0]){
+												return "red";
+											}else{
+												return "black";
+											}
+										})
+										.style("stroke-width",1);
+							            // .on("mouseover", handleMouseOver)
+							            // .on("mouseout", handleMouseOut);
+
+					$('#json').click(function(){
+						nodes[0]["asdasd"] = 1
+					});
+
+					function handleMouseOver(d, i){
+						// console.log(d);
+						svg.append("text").attr({
+			                id: "t" + d.source.x + "-" + d.source.y + "-" + i,  // Create an id for text so we can select it later for removing on mouseout
+			                x: function() { return d.source.x - 30; },
+			                y: function() { return d.source.y - 15; }
+			            })
+			            .text(function() {
+			              return "test";  // Value of the text
+			            });
+					};
+
+			      function handleMouseOut(d, i) {
+			            // Use D3 to select element, change color back to normal
+
+			            // Select text by id and then remove
+			            d3.select("#t" + d.source.x + "-" + d.source.y + "-" + i).remove();  // Remove text location
+			          }
+												
+					//添加节点	 function(d, i) where d: data i:index		
+					var svg_nodes = svg.selectAll("circle")
+										.data(nodes)
+										.enter()
+										.append("circle")
+										.attr("r",10)
+										.style("fill",function(d,i){ 
+											if(d.system == 1){
+												return "blue";
+											} 
+											return 'green';}) // 随机颜色 function(d,i){ return color(i);}
+										.on("click", function(d,i){
+											console.log(d);
+								            alert(d);
+								         })
+										.call(force.drag);	//使得节点能够拖动
+
+					//添加描述节点的文字
+					var svg_texts = svg.selectAll("text")
+										.data(nodes)
+										.enter()
+										.append("text")
+										.style("fill", "black")
+										.attr("dx", 20)
+										.attr("dy", 8)
+										.text(function(d){
+											return d.label;
+										});
+
+					force.on("tick", function(){	//对于每一个时间间隔
+						 //更新连线坐标
+						 svg_edges.attr("x1",function(d){ return d.source.x; })
+						 		.attr("y1",function(d){ return d.source.y; })
+						 		.attr("x2",function(d){ return d.target.x; })
+						 		.attr("y2",function(d){ return d.target.y; });
+						 
+						 //更新节点坐标
+						 svg_nodes.attr("cx",function(d){ return d.x; })
+						 		.attr("cy",function(d){ return d.y; });
+
+						 //更新文字坐标
+						 svg_texts.attr("x", function(d){ return d.x; })
+						 	.attr("y", function(d){ return d.y; });
+					});
+
+		        }
+			});
+
+		});
+
+	</script>
+	
+  </body>
+</html>
