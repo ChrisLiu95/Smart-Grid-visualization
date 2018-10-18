@@ -11,8 +11,21 @@
     <link rel="icon" href="http://getbootstrap.com/favicon.ico">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
     <style>
-    body { padding-top:50px; }.navbar-inverse .navbar-nav > li > a { color: #FFFFFF; }
+	    body { padding-top:50px; }.navbar-inverse .navbar-nav > li > a { color: #FFFFFF; }
+		.tooltip{
+		position: absolute;
+		width: 120;
+		height: auto;
+		font-family: simsun;
+		font-size: 14px;
+		text-align: center;
+		border-style: solid; 
+		border-width: 1px;
+		background-color: white;
+		border-radius: 5px;
+		}
 	</style>
 
   </head>
@@ -49,6 +62,35 @@
         <br>
         <button class="btn btn-lg btn-primary" id="json"  style = "display: none">Import Json file</button>
 
+        <!-- drop down button for time series-->
+         <div class="form-group" id="timeform" style = "display: none">
+		    <label for="exampleFormControlSelect1">Time</label>
+		    <select class="form-control" id="time">
+		      <option>t1</option>
+		      <option>t2</option>
+		      <option>t3</option>
+		      <option>t4</option>
+		      <option>t5</option>
+		      <option>t6</option>
+		      <option>t7</option>
+		      <option>t8</option>
+		      <option>t9</option>
+		      <option>t10</option>
+		      <option>t11</option>
+		      <option>t12</option>
+		      <option>t12</option>
+		      <option>t14</option>
+		      <option>t15</option>
+		      <option>t16</option>
+		      <option>t17</option>
+		      <option>t18</option>
+		      <option>t19</option>
+		      <option>t20</option>
+		      <option>t21</option>
+		      <option>t22</option>
+		      <option>t23</option>
+		    </select>
+		  </div>
         <br>
         <div class="alert alert-info" id="loading" style="display: none;" role="alert">
           Parsing topology file ...
@@ -100,20 +142,6 @@
 
 			$('#json').css('display', "");
 
-			$('#json').click(function(){
-				$.ajax({
-				   url: "http://127.0.0.1:8081",//json文件位置
-				   type: "GET",//请求方式为get
-				   dataType: "json", //返回数据格式为json
-				   success: function(data) {//请求成功完成后要执行的方法 
-				       //each循环 使用$.each方法遍历返回的数据date
-				       // alert(data.length);
-				       // alert(data[0]);
-				       alert(JSON.stringify(data));
-				   }
-				})
-			});
-
 		    Papa.parse(file, {
 		        complete: function(results) {
 		        	var data = results.data;
@@ -134,7 +162,7 @@
 
 					var nodes = [];
 					var edges = [];
-
+					var time = "t0";
 					var myset = new Set();
 
 					for(var i = 2; i < mydata.length; i++){
@@ -161,8 +189,8 @@
 						};
 						nodes.push(node);
 					};
-
-					console.log(nodes[0]);
+					// nodes[0]["test"] = 2;
+					// console.log(nodes[0]);
 
 					// //  ["P1", "P2"]
 					for(var i = 2; i < mydata.length; i++){
@@ -215,9 +243,9 @@
 							            // .on("mouseover", handleMouseOver)
 							            // .on("mouseout", handleMouseOut);
 
-					$('#json').click(function(){
-						nodes[0]["asdasd"] = 1
-					});
+					// $('#json').click(function(){
+					// 	nodes[0]["asdasd"] = 1
+					// });
 
 					function handleMouseOver(d, i){
 						// console.log(d);
@@ -231,7 +259,7 @@
 			            });
 					};
 
-			      function handleMouseOut(d, i) {
+			      	function handleMouseOut(d, i) {
 			            // Use D3 to select element, change color back to normal
 
 			            // Select text by id and then remove
@@ -249,12 +277,38 @@
 												return "blue";
 											} 
 											return 'green';}) // 随机颜色 function(d,i){ return color(i);}
-										.on("click", function(d,i){
-											console.log(d);
-								            alert(d);
-								         })
+										.on("mouseover", handleClick)
 										.call(force.drag);	//使得节点能够拖动
 
+					// print node information at a specific time
+					function handleClick(d, i){
+						// alert(d["time"]);
+						console.log(d["time"]);
+						tooltip.html("Voltage:" + d["time"][time]["voltage"] + "\n" +
+									 "Real power:" + d["time"][time]["real power"] + "\n" +
+									 "Reactive power:" + d["time"][time]["reactive power"] + "\n" +
+									 "Phases:" + d["time"][time]["phases"])
+						            .style("left", (d3.event.pageX) + "px")
+						            .style("top", (d3.event.pageY + 20) + "px")
+						            .style("opacity",1.0)
+						.on("mousemove",function(d){
+						/* 鼠标移动时，更改样式 left 和 top 来改变提示框的位置 */
+						 
+						    tooltip.style("left", (d3.event.pageX) + "px")
+						            .style("top", (d3.event.pageY + 20) + "px");
+						})
+						.on("mouseout",function(d){
+						/* 鼠标移出时，将透明度设定为0.0（完全透明）*/
+						 
+						    tooltip.style("opacity",0.0);
+						})
+					}
+
+					// add text shows nodes values 
+					var tooltip = d3.select("body")
+									.append("div")
+									.attr("class","tooltip")
+									.style("opacity",0.0);
 					//添加描述节点的文字
 					var svg_texts = svg.selectAll("text")
 										.data(nodes)
@@ -281,6 +335,31 @@
 						 //更新文字坐标
 						 svg_texts.attr("x", function(d){ return d.x; })
 						 	.attr("y", function(d){ return d.y; });
+					});
+
+
+					$('#json').click(function(){
+						$('#json').css('display', "none");
+						$('#timeform').css('display', "");
+						$.ajax({
+						   url: "http://127.0.0.1:8081",//json文件位置
+						   type: "GET",//请求方式为get
+						   dataType: "json", //返回数据格式为json
+						   success: function(data) {//请求成功完成后要执行的方法 
+						   		// update nodes information for each node in the network, stores in Json format
+						       for(var nodename in data){
+						    		for(var i = 0; i < nodes.length; i ++){
+						    			if(nodes[i].label == nodename){
+						    				nodes[i]["time"] = data[nodename];
+						    			}
+						    		}
+						       }
+						   }
+						})
+					});
+
+					$( "#time" ).change(function() {
+					  time = $("#time").find("option:selected").text();
 					});
 
 		        }

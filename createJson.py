@@ -7,10 +7,10 @@ nodes_num = 10
 hours = 24
 
 for i in range(nodes_num):
-	dicObj["node " + str(i)] = collections.defaultdict()
+	dicObj["P" + str(i)] = collections.defaultdict()
 	for j in range(hours):
-		dicObj["node " + str(i)]['t' + str(j)] = collections.defaultdict()
-		temp = dicObj["node " + str(i)]['t' + str(j)]
+		dicObj["P" + str(i)]['t' + str(j)] = collections.defaultdict()
+		temp = dicObj["P" + str(i)]['t' + str(j)]
 		temp["voltage"] = 100
 		temp["real power"] = 100
 		temp["reactive power"] = 100
