@@ -283,11 +283,17 @@
 					// print node information at a specific time
 					function handleClick(d, i){
 						// alert(d["time"]);
-						console.log(d["time"]);
-						tooltip.html("Voltage:" + d["time"][time]["voltage"] + "\n" +
+						var message;
+						if(d.hasOwnProperty("time")){
+							message = "Voltage:" + d["time"][time]["voltage"] + "\n" +
 									 "Real power:" + d["time"][time]["real power"] + "\n" +
 									 "Reactive power:" + d["time"][time]["reactive power"] + "\n" +
-									 "Phases:" + d["time"][time]["phases"])
+									 "Phases:" + d["time"][time]["phases"];
+						}else{
+							message = "Please import Node/time series file or The value of this node is missing";
+						}
+						// console.log(d["time"]);
+						tooltip.html(message)
 						            .style("left", (d3.event.pageX) + "px")
 						            .style("top", (d3.event.pageY + 20) + "px")
 						            .style("opacity",1.0)

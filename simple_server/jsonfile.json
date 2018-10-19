@@ -1,0 +1,7302 @@
+{
+  "P0": {
+    "t0": {
+      "voltage": 63.69716072596656,
+      "real power": 73.19552373367955,
+      "reactive power": 23.217503297160814,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 70.20232745265552,
+      "real power": 57.6442845013312,
+      "reactive power": 98.62937039629219,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 25.52911103690945,
+      "real power": 20.944811297065147,
+      "reactive power": 99.36611336369194,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 9.116784808205036,
+      "real power": 77.3365028047827,
+      "reactive power": 86.50673687734863,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 39.20376251212643,
+      "real power": 21.044700911783252,
+      "reactive power": 52.1472736099908,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 15.912416509415939,
+      "real power": 27.429146012722406,
+      "reactive power": 49.29880891301185,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 37.63419641941523,
+      "real power": 32.790129595829164,
+      "reactive power": 50.926302552145394,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 54.251036697929386,
+      "real power": 71.36729859331854,
+      "reactive power": 45.11354040122395,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 77.6482661435745,
+      "real power": 11.512398883490082,
+      "reactive power": 81.34403777105166,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 52.53140499825538,
+      "real power": 17.971716591813458,
+      "reactive power": 30.51888867386918,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 95.29277120407247,
+      "real power": 16.785599440761878,
+      "reactive power": 53.79372588236349,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 80.35556365651983,
+      "real power": 76.9088052615395,
+      "reactive power": 7.631830261703099,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 49.9862060240338,
+      "real power": 14.925042182244773,
+      "reactive power": 19.929560916178758,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 31.581182425422206,
+      "real power": 34.53348004388681,
+      "reactive power": 32.67987606963428,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 78.31461919023258,
+      "real power": 62.82912113555534,
+      "reactive power": 38.50553117071509,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 47.48664906792188,
+      "real power": 59.30361658373716,
+      "reactive power": 90.635358351384,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 25.74772968241238,
+      "real power": 59.52210847601344,
+      "reactive power": 80.4527643252057,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 4.930923798229858,
+      "real power": 81.70661895593233,
+      "reactive power": 16.416517563181444,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 85.60963841736847,
+      "real power": 45.87297763452197,
+      "reactive power": 72.72031590170613,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 37.60897207977483,
+      "real power": 10.853114894663285,
+      "reactive power": 28.58707273982837,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 51.06512485376571,
+      "real power": 63.973615813252984,
+      "reactive power": 64.93294860040665,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 97.51923602528434,
+      "real power": 56.40974098586297,
+      "reactive power": 0.20909012961651818,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 11.349167450225806,
+      "real power": 21.22445784109822,
+      "reactive power": 56.47082418286998,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 26.253454779246375,
+      "real power": 58.14455363983056,
+      "reactive power": 28.434737487503014,
+      "phases": "A"
+    }
+  },
+  "P1": {
+    "t0": {
+      "voltage": 66.84558042267321,
+      "real power": 66.78271494089522,
+      "reactive power": 91.37190775628507,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 17.246477936737435,
+      "real power": 94.00119707211336,
+      "reactive power": 75.95353888204707,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 53.85594075055696,
+      "real power": 8.888527355115139,
+      "reactive power": 49.658257804722474,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 2.0075640156254293,
+      "real power": 12.318760383207994,
+      "reactive power": 90.29203763478495,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 39.58245438591381,
+      "real power": 12.516835716292107,
+      "reactive power": 52.95635195059997,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 42.48761907513048,
+      "real power": 47.566333257166214,
+      "reactive power": 30.574101758415328,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 27.066213058903664,
+      "real power": 86.53412827754785,
+      "reactive power": 18.29138589119468,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 15.743202163841442,
+      "real power": 29.270230189287204,
+      "reactive power": 73.7444152762084,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 0.5763516556247072,
+      "real power": 50.15819397678554,
+      "reactive power": 31.13498866346611,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 76.42264474864156,
+      "real power": 69.19150688098092,
+      "reactive power": 8.159665400438387,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 98.04352697048776,
+      "real power": 94.79164389364234,
+      "reactive power": 31.61626130415688,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 88.98592294281788,
+      "real power": 84.73761362988523,
+      "reactive power": 85.95852167560204,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 18.881685619901866,
+      "real power": 85.8333652698368,
+      "reactive power": 97.00041208115555,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 1.194721388917297,
+      "real power": 53.440432549595606,
+      "reactive power": 16.71462142975313,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 39.774374343817485,
+      "real power": 46.08611546440164,
+      "reactive power": 64.69815648201802,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 25.530543280654495,
+      "real power": 21.362647025681735,
+      "reactive power": 51.529729135325965,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 3.757201220304185,
+      "real power": 37.171148638331495,
+      "reactive power": 88.52615833262844,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 31.62775389795941,
+      "real power": 51.27558339137486,
+      "reactive power": 31.735520810677997,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 12.217282592347512,
+      "real power": 93.89577693048146,
+      "reactive power": 61.027957369294185,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 25.699695972082772,
+      "real power": 90.07626272276528,
+      "reactive power": 12.21018404761054,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 64.02386250231076,
+      "real power": 55.73286163898858,
+      "reactive power": 96.0602405972915,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 73.01952324391355,
+      "real power": 40.8030617277211,
+      "reactive power": 85.4800104738566,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 12.940953866473892,
+      "real power": 23.9353007813082,
+      "reactive power": 68.37664282375142,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 49.730842956170484,
+      "real power": 23.646459153028665,
+      "reactive power": 45.1067513236724,
+      "phases": "A"
+    }
+  },
+  "P2": {
+    "t0": {
+      "voltage": 61.76747005779157,
+      "real power": 54.04967310050485,
+      "reactive power": 31.37757081511141,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 10.567923568611093,
+      "real power": 30.995184896711493,
+      "reactive power": 47.97064763592406,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 37.75534684292299,
+      "real power": 58.174259894713934,
+      "reactive power": 26.84112701484326,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 77.32385465492906,
+      "real power": 40.638916486055585,
+      "reactive power": 24.10513877698428,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 16.37709341396111,
+      "real power": 68.30288410640044,
+      "reactive power": 86.16646720308239,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 38.231918965114566,
+      "real power": 28.807576985352167,
+      "reactive power": 85.46477789289784,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 3.341062297222852,
+      "real power": 62.87573078809834,
+      "reactive power": 19.400823423020185,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 25.03709242101784,
+      "real power": 96.54710613454036,
+      "reactive power": 2.8096024396645713,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 37.446555960911724,
+      "real power": 37.120254481864535,
+      "reactive power": 66.18519885082286,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 33.26279328372864,
+      "real power": 48.32693308438789,
+      "reactive power": 21.043758338993925,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 25.9977039833423,
+      "real power": 54.22861543188249,
+      "reactive power": 88.36317756255801,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 98.67068763958652,
+      "real power": 42.66110318247121,
+      "reactive power": 89.06106284691582,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 58.06382372805299,
+      "real power": 48.36363162436804,
+      "reactive power": 77.70681230251547,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 39.30282697020028,
+      "real power": 62.975957708436425,
+      "reactive power": 93.15163186967658,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 33.41285864879661,
+      "real power": 19.50538473410698,
+      "reactive power": 93.73528132721667,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 49.8167942736945,
+      "real power": 80.79792186969094,
+      "reactive power": 34.36012774352787,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 87.66078231722007,
+      "real power": 75.25487934139043,
+      "reactive power": 83.47163938632403,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 36.23087669228131,
+      "real power": 24.615135176182214,
+      "reactive power": 41.722014826652945,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 30.33640859819493,
+      "real power": 51.43099512412208,
+      "reactive power": 41.6681489274334,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 63.280990702245454,
+      "real power": 32.651896603593435,
+      "reactive power": 28.552873350667653,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 4.042183149976752,
+      "real power": 12.52111213479945,
+      "reactive power": 72.81977476499002,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 24.266250720239523,
+      "real power": 44.518627538914814,
+      "reactive power": 73.30684786053754,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 33.86347301121728,
+      "real power": 26.897364542253655,
+      "reactive power": 12.241335640180262,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 33.89464862087364,
+      "real power": 76.00387389408174,
+      "reactive power": 66.2747047303447,
+      "phases": "B"
+    }
+  },
+  "P3": {
+    "t0": {
+      "voltage": 15.145560953579052,
+      "real power": 74.01018535145741,
+      "reactive power": 47.653324876186495,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 95.2066672303084,
+      "real power": 5.837468501582121,
+      "reactive power": 80.7949924559223,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 72.6943692433639,
+      "real power": 14.876377729202094,
+      "reactive power": 95.11813713464247,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 44.121302171572744,
+      "real power": 50.91245021962916,
+      "reactive power": 73.06623295870189,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 73.19626081131224,
+      "real power": 80.23879514171449,
+      "reactive power": 66.57192144928078,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 33.39065194373793,
+      "real power": 66.03031089633419,
+      "reactive power": 95.57329616596716,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 95.41257484733315,
+      "real power": 57.918809499548715,
+      "reactive power": 8.29463519088054,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 90.58497739995626,
+      "real power": 0.13155739467762828,
+      "reactive power": 83.03957140737418,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 84.11665214290933,
+      "real power": 3.9578557679605053,
+      "reactive power": 47.96873627421553,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 58.7390340074176,
+      "real power": 81.85374568904913,
+      "reactive power": 97.6654864751762,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 8.512048970009422,
+      "real power": 16.728399987372633,
+      "reactive power": 90.26324252188375,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 67.87162538031421,
+      "real power": 13.266524224370347,
+      "reactive power": 9.506273565567758,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 79.19905362421844,
+      "real power": 77.69918075631341,
+      "reactive power": 83.3117339903585,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 56.26941445562339,
+      "real power": 15.783420290313776,
+      "reactive power": 60.40501354981149,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 65.67675968265414,
+      "real power": 24.10528252973799,
+      "reactive power": 25.38155910429132,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 98.74412820029252,
+      "real power": 64.9689687304702,
+      "reactive power": 61.66106651440797,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 64.81750279857462,
+      "real power": 41.97631555731556,
+      "reactive power": 44.2412902581787,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 67.17410157922563,
+      "real power": 6.854730950492815,
+      "reactive power": 23.682813780710088,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 58.07895066211296,
+      "real power": 9.766451633637619,
+      "reactive power": 60.85559186938335,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 63.178754932738535,
+      "real power": 25.444832348125058,
+      "reactive power": 82.58642779006993,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 23.755801754748052,
+      "real power": 12.007861863685655,
+      "reactive power": 31.540679690526975,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 56.963958376901594,
+      "real power": 89.34596475102936,
+      "reactive power": 13.52366852780703,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 26.973965626611207,
+      "real power": 37.98878461352418,
+      "reactive power": 19.061677294201353,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 22.621410377355378,
+      "real power": 18.32914462463271,
+      "reactive power": 55.03323899820099,
+      "phases": "B"
+    }
+  },
+  "P4": {
+    "t0": {
+      "voltage": 66.95954302579955,
+      "real power": 61.89871140910412,
+      "reactive power": 75.56724516049869,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 44.579405562355014,
+      "real power": 19.482188787739506,
+      "reactive power": 3.1659827982436384,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 74.51155943226195,
+      "real power": 77.18544976104197,
+      "reactive power": 31.87949655862742,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 7.503941447608109,
+      "real power": 95.9470155565902,
+      "reactive power": 1.3001746168054829,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 28.383955076578125,
+      "real power": 64.07517804394311,
+      "reactive power": 76.91257595179583,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 73.43303051926806,
+      "real power": 44.9629808126055,
+      "reactive power": 14.79930103633892,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 45.94598783843453,
+      "real power": 16.744599517282378,
+      "reactive power": 4.301295158680296,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 76.95910684747484,
+      "real power": 18.695465427496217,
+      "reactive power": 13.784805592519644,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 7.316620676881913,
+      "real power": 41.712318814347505,
+      "reactive power": 29.62143669208156,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 82.27190837004694,
+      "real power": 91.60700255215991,
+      "reactive power": 61.02618198646469,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 98.05453573646162,
+      "real power": 64.59181929619562,
+      "reactive power": 41.133097421488394,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 72.96356424823433,
+      "real power": 26.104449668871332,
+      "reactive power": 48.67706456969133,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 59.339745837545856,
+      "real power": 32.80449149032004,
+      "reactive power": 59.06564507381593,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 33.07165377603694,
+      "real power": 28.82089427038641,
+      "reactive power": 43.87234731990909,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 92.4761511070091,
+      "real power": 91.71588025527308,
+      "reactive power": 34.38393958474133,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 45.228845656294716,
+      "real power": 72.56621289106033,
+      "reactive power": 75.12503917144244,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 79.68526265747774,
+      "real power": 40.14389271470564,
+      "reactive power": 59.777544706548625,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 93.90025354390337,
+      "real power": 66.78530414453716,
+      "reactive power": 62.24540477242629,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 97.45864456906646,
+      "real power": 81.21244937762106,
+      "reactive power": 74.40735880059572,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 95.15294512985275,
+      "real power": 91.62582841341795,
+      "reactive power": 3.8468235944728146,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 81.41619690479119,
+      "real power": 44.17439642425709,
+      "reactive power": 3.5202014296201067,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 77.44652212582142,
+      "real power": 77.71278140347727,
+      "reactive power": 47.22903755778765,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 3.4851661126516498,
+      "real power": 92.60719614619535,
+      "reactive power": 98.10342882499815,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 17.33708178507153,
+      "real power": 32.530901084953086,
+      "reactive power": 3.7944933362934807,
+      "phases": "B"
+    }
+  },
+  "P5": {
+    "t0": {
+      "voltage": 25.4567553727715,
+      "real power": 9.896845884220228,
+      "reactive power": 42.523110707283315,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 67.61972834275716,
+      "real power": 99.5881497334224,
+      "reactive power": 93.24932943445091,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 83.49210644418213,
+      "real power": 20.065878863977204,
+      "reactive power": 62.739238217368474,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 72.531234157071,
+      "real power": 85.46359023692432,
+      "reactive power": 63.54801649486384,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 74.47734632338423,
+      "real power": 48.382740640320385,
+      "reactive power": 94.77635691061774,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 39.81084555062554,
+      "real power": 77.580949988844,
+      "reactive power": 54.56224044116005,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 26.68121072417039,
+      "real power": 32.38520425821958,
+      "reactive power": 72.80816723588549,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 18.5332288588665,
+      "real power": 84.58615432803659,
+      "reactive power": 14.061006232257721,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 33.0833912622922,
+      "real power": 26.33760369393737,
+      "reactive power": 69.14272984499115,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 0.7240160223455416,
+      "real power": 42.025477372394946,
+      "reactive power": 36.56781457436651,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 36.49707639383273,
+      "real power": 44.25682648814514,
+      "reactive power": 57.144045060782524,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 58.223891123090496,
+      "real power": 76.17730972506304,
+      "reactive power": 96.82334410278412,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 10.294023013752673,
+      "real power": 88.04697507244282,
+      "reactive power": 24.879510179276345,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 16.50971952392346,
+      "real power": 74.4783134284365,
+      "reactive power": 45.73608249894777,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 44.98993896575318,
+      "real power": 22.235671839210468,
+      "reactive power": 75.0694614179009,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 91.71366117243724,
+      "real power": 40.206125912179616,
+      "reactive power": 14.394570054213862,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 71.19985720515196,
+      "real power": 35.9097296921901,
+      "reactive power": 64.67623599966777,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 81.10901026373043,
+      "real power": 50.455148524014845,
+      "reactive power": 92.93570929755731,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 79.4192347019822,
+      "real power": 85.49906298501107,
+      "reactive power": 81.87994551773455,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 76.30824624803716,
+      "real power": 71.2549561328011,
+      "reactive power": 58.16673892186308,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 21.807702647090732,
+      "real power": 18.434926032242004,
+      "reactive power": 45.91842378419315,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 19.394657730849563,
+      "real power": 33.44487268732203,
+      "reactive power": 34.42301708885501,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 82.11217900760153,
+      "real power": 49.23860409341282,
+      "reactive power": 67.50693055226365,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 2.4313264743614504,
+      "real power": 60.053706887366474,
+      "reactive power": 21.07792593141268,
+      "phases": "A"
+    }
+  },
+  "P6": {
+    "t0": {
+      "voltage": 76.7709008691892,
+      "real power": 4.771589173144242,
+      "reactive power": 56.05382348408558,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 58.81249385541619,
+      "real power": 27.43523301413422,
+      "reactive power": 85.0391455324493,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 94.27188281072324,
+      "real power": 73.12634572742269,
+      "reactive power": 50.99947087238041,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 91.82041129973429,
+      "real power": 28.569945682387765,
+      "reactive power": 0.2544337924321183,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 40.32155626622493,
+      "real power": 12.049966432795467,
+      "reactive power": 48.870919026723826,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 81.18675153331048,
+      "real power": 1.0291821213893382,
+      "reactive power": 6.067554101330175,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 18.505626071092486,
+      "real power": 37.84183045718269,
+      "reactive power": 27.136163860460073,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 0.9013490195081464,
+      "real power": 34.34027998396535,
+      "reactive power": 43.54441287541281,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 8.942428646708311,
+      "real power": 6.0465337938656605,
+      "reactive power": 31.505140782382313,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 73.8495286315484,
+      "real power": 47.366945022844256,
+      "reactive power": 54.24701045207513,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 73.81216515152192,
+      "real power": 81.0437193220312,
+      "reactive power": 59.78839766544732,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 0.9100507018953929,
+      "real power": 70.15659039195708,
+      "reactive power": 23.12139010147306,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 18.30550869482652,
+      "real power": 91.50361458416488,
+      "reactive power": 49.29537079438443,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 31.141422124405715,
+      "real power": 49.07666956324164,
+      "reactive power": 2.296523781122606,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 63.2851250057695,
+      "real power": 8.37583446711796,
+      "reactive power": 65.82228641993663,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 33.5009085179081,
+      "real power": 47.46952148854135,
+      "reactive power": 54.588872625037645,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 45.9764718643916,
+      "real power": 57.92374657551228,
+      "reactive power": 59.32685697526835,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 74.4824290590895,
+      "real power": 53.51949113656006,
+      "reactive power": 68.53484920044143,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 62.87352022467753,
+      "real power": 63.494896820746305,
+      "reactive power": 47.21966152156437,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 63.09495170869928,
+      "real power": 64.94782973203982,
+      "reactive power": 37.34981437732101,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 44.137035563064465,
+      "real power": 67.60844968543708,
+      "reactive power": 79.96714690285988,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 57.585534301186534,
+      "real power": 17.102147981811576,
+      "reactive power": 3.923220255841897,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 86.74621878672875,
+      "real power": 88.6602319157864,
+      "reactive power": 34.61451445777778,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 1.0076651400191539,
+      "real power": 48.73765599274573,
+      "reactive power": 45.954453897422574,
+      "phases": "A"
+    }
+  },
+  "P7": {
+    "t0": {
+      "voltage": 63.83467206279146,
+      "real power": 83.39951156613363,
+      "reactive power": 67.23430147588493,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 75.70602368344342,
+      "real power": 24.51959821508768,
+      "reactive power": 53.324353055325446,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 49.17318224774486,
+      "real power": 54.94323942479726,
+      "reactive power": 68.57289692708943,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 31.67283990224106,
+      "real power": 21.38639225859721,
+      "reactive power": 27.159799630345958,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 21.820960762697904,
+      "real power": 37.75707983976714,
+      "reactive power": 94.04035227398123,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 38.7168158819787,
+      "real power": 58.98545553881173,
+      "reactive power": 19.117674748704705,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 55.8876084560482,
+      "real power": 91.44719556839765,
+      "reactive power": 42.583356668495455,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 73.48095551963631,
+      "real power": 41.89878517001285,
+      "reactive power": 1.9487992274733856,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 75.81658913141219,
+      "real power": 19.025125358562967,
+      "reactive power": 34.401720627166156,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 72.8956562993122,
+      "real power": 38.09420754989817,
+      "reactive power": 92.04521745816282,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 97.85829507874267,
+      "real power": 80.21706121681807,
+      "reactive power": 47.14423280936716,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 11.33418249518624,
+      "real power": 8.282957716375062,
+      "reactive power": 60.08838944248457,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 57.67153995970759,
+      "real power": 89.83240788033305,
+      "reactive power": 92.54144390051412,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 52.27603872659385,
+      "real power": 11.763734602241904,
+      "reactive power": 66.40174783916845,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 92.3883721253863,
+      "real power": 74.19836514396947,
+      "reactive power": 8.480920261631242,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 78.35009308309525,
+      "real power": 92.06948163284916,
+      "reactive power": 84.19536845321002,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 13.964942823810855,
+      "real power": 31.072657414174532,
+      "reactive power": 8.625497642161672,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 64.59426850380157,
+      "real power": 13.917551112297078,
+      "reactive power": 12.339603857798387,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 77.02511526635915,
+      "real power": 37.78245548761851,
+      "reactive power": 71.31248376946606,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 75.31277935029618,
+      "real power": 82.4115179659873,
+      "reactive power": 7.116611885876168,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 83.88702552891341,
+      "real power": 64.53830248565615,
+      "reactive power": 14.198821813233664,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 88.1735968958656,
+      "real power": 92.18678187880694,
+      "reactive power": 1.5216101885674571,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 39.86365208181181,
+      "real power": 26.952394301740757,
+      "reactive power": 59.66473324929672,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 90.45995487883116,
+      "real power": 75.05521623714891,
+      "reactive power": 76.62250004814159,
+      "phases": "A"
+    }
+  },
+  "P8": {
+    "t0": {
+      "voltage": 6.446513744169402,
+      "real power": 13.823204790484134,
+      "reactive power": 48.73374551430487,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 13.513007334055516,
+      "real power": 87.9470231395232,
+      "reactive power": 88.38150934654651,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 8.87725873353421,
+      "real power": 14.081221113461384,
+      "reactive power": 2.2538521909128306,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 5.4009656681337725,
+      "real power": 16.129303648016304,
+      "reactive power": 48.60956526267686,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 73.22946069533911,
+      "real power": 82.07862791184725,
+      "reactive power": 21.233639333811105,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 4.1980611300235005,
+      "real power": 83.51848399732026,
+      "reactive power": 76.90214862693135,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 15.397307410531802,
+      "real power": 54.773347749798006,
+      "reactive power": 90.33589150342614,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 77.93383099629014,
+      "real power": 42.26944495901526,
+      "reactive power": 3.5674702112782786,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 0.10025137749390955,
+      "real power": 98.08665492179752,
+      "reactive power": 78.18737534453471,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 8.140124090327438,
+      "real power": 17.224595306953827,
+      "reactive power": 20.934434451784135,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 37.09283821858042,
+      "real power": 63.219969257145856,
+      "reactive power": 43.90195387498827,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 65.02247812218661,
+      "real power": 53.22769066081482,
+      "reactive power": 23.151896145376494,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 38.515012276663384,
+      "real power": 38.882110455475825,
+      "reactive power": 20.9825895636216,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 54.08317690981171,
+      "real power": 40.35726353836184,
+      "reactive power": 61.675332335927216,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 86.79201652137864,
+      "real power": 93.98562042556908,
+      "reactive power": 26.397557528787374,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 92.77716686501589,
+      "real power": 46.2532837038763,
+      "reactive power": 64.23314966335091,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 54.45480149598448,
+      "real power": 47.738355731963544,
+      "reactive power": 97.66412366143183,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 89.76262898616267,
+      "real power": 82.59248480445048,
+      "reactive power": 54.29422956704298,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 26.625651673918117,
+      "real power": 90.22013949709262,
+      "reactive power": 65.00537288752837,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 9.776667221536716,
+      "real power": 82.45272583939808,
+      "reactive power": 2.2381198193656693,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 57.793047528938125,
+      "real power": 77.32492665403046,
+      "reactive power": 90.17128764126282,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 2.3762748222659447,
+      "real power": 33.569959515625946,
+      "reactive power": 5.552829627307776,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 31.330359323680213,
+      "real power": 44.704349540838685,
+      "reactive power": 71.30301130517287,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 17.705754778541127,
+      "real power": 56.242880959624344,
+      "reactive power": 98.18037081440154,
+      "phases": "A"
+    }
+  },
+  "P9": {
+    "t0": {
+      "voltage": 94.34312223250213,
+      "real power": 80.15697841023173,
+      "reactive power": 1.4284214959865538,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 8.09962985654764,
+      "real power": 41.860530874150605,
+      "reactive power": 12.665098901891202,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 79.29396002547155,
+      "real power": 98.16002850646449,
+      "reactive power": 40.22034749778823,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 62.287853976580664,
+      "real power": 65.1780646954629,
+      "reactive power": 89.95911078571794,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 60.3003325579486,
+      "real power": 93.64790849671733,
+      "reactive power": 94.67318532486979,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 4.4488823835291065,
+      "real power": 0.18463587845015672,
+      "reactive power": 35.62386182999384,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 44.626572633410156,
+      "real power": 57.382221364836184,
+      "reactive power": 3.873081243721521,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 3.635915285945257,
+      "real power": 84.6055084259719,
+      "reactive power": 81.92737104132533,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 77.29901179855464,
+      "real power": 57.371986239237046,
+      "reactive power": 68.30526624461018,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 2.780390801405297,
+      "real power": 24.87086497405484,
+      "reactive power": 94.06913684375415,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 92.73990064540124,
+      "real power": 3.2753054025215,
+      "reactive power": 66.42358423659044,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 42.89375945000834,
+      "real power": 50.744278951733016,
+      "reactive power": 50.242646341137196,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 8.122360329549583,
+      "real power": 56.67803742164954,
+      "reactive power": 96.79312758301673,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 39.01843706686156,
+      "real power": 19.214438906241426,
+      "reactive power": 3.9577302223884114,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 12.975841630007078,
+      "real power": 45.91345046069222,
+      "reactive power": 65.41378786008217,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 50.11477920059914,
+      "real power": 21.922434136574864,
+      "reactive power": 76.5695739263475,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 73.74302518256161,
+      "real power": 81.05381268577187,
+      "reactive power": 70.15143267228018,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 59.3262247967175,
+      "real power": 56.870295546901964,
+      "reactive power": 93.11291177108593,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 19.352765113233737,
+      "real power": 38.222544266190404,
+      "reactive power": 7.755031882094432,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 74.59277936372895,
+      "real power": 64.69981424633447,
+      "reactive power": 1.5186461923671346,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 54.25506571339302,
+      "real power": 27.811076607015895,
+      "reactive power": 15.060410741350005,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 42.73116636607217,
+      "real power": 36.7147201875835,
+      "reactive power": 90.96388494097086,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 22.95827048014386,
+      "real power": 93.21313495047447,
+      "reactive power": 93.51230164878139,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 12.171734637182086,
+      "real power": 53.05846185109897,
+      "reactive power": 65.68059087217998,
+      "phases": "A"
+    }
+  },
+  "P10": {
+    "t0": {
+      "voltage": 74.83638723932253,
+      "real power": 1.3899686196902628,
+      "reactive power": 21.15502130764654,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 6.200679098658202,
+      "real power": 44.167358282951476,
+      "reactive power": 35.55618896891946,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 7.9047326460373935,
+      "real power": 61.423920160670264,
+      "reactive power": 9.482136367103289,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 26.809441866485994,
+      "real power": 60.496646426797206,
+      "reactive power": 35.56566577292474,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 80.61299598388536,
+      "real power": 1.571045642235469,
+      "reactive power": 89.83382625614654,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 51.65108124566259,
+      "real power": 53.508760633799376,
+      "reactive power": 42.39084024793305,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 18.735515712506977,
+      "real power": 91.60019757543381,
+      "reactive power": 69.12938609343978,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 74.77808370070956,
+      "real power": 3.8860238141639747,
+      "reactive power": 58.384683590738206,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 62.40030605472201,
+      "real power": 0.2120321544729964,
+      "reactive power": 34.33365219958676,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 13.520998560843045,
+      "real power": 8.266100742006921,
+      "reactive power": 56.81958553750571,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 6.7185943732237074,
+      "real power": 37.53591921327124,
+      "reactive power": 18.64717532981772,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 68.52064274413323,
+      "real power": 43.34584970535824,
+      "reactive power": 49.45950054352889,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 63.12764748409446,
+      "real power": 19.013062083320165,
+      "reactive power": 16.471429441312978,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 26.18720241004381,
+      "real power": 25.189317244530997,
+      "reactive power": 70.34996576811005,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 63.04279624238881,
+      "real power": 93.50795958653035,
+      "reactive power": 14.815562674698256,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 23.78784779810037,
+      "real power": 45.317058285554765,
+      "reactive power": 8.295378462672854,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 25.027068539642993,
+      "real power": 73.97630012697277,
+      "reactive power": 34.81669852406589,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 51.006144282495,
+      "real power": 57.972336661941824,
+      "reactive power": 91.21813984930863,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 88.6524531268584,
+      "real power": 94.75100968071267,
+      "reactive power": 52.48232378275283,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 99.68774740366328,
+      "real power": 68.16738308917297,
+      "reactive power": 82.04131127409383,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 30.66295481434358,
+      "real power": 81.87111087912284,
+      "reactive power": 31.78072302884637,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 36.390658603352534,
+      "real power": 87.7294385607758,
+      "reactive power": 20.63742187588601,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 82.00119250266347,
+      "real power": 83.854501562782,
+      "reactive power": 57.06883521191204,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 88.1112553163756,
+      "real power": 77.16264004776158,
+      "reactive power": 93.28043628012908,
+      "phases": "B"
+    }
+  },
+  "P11": {
+    "t0": {
+      "voltage": 10.490364025306864,
+      "real power": 15.808080444025807,
+      "reactive power": 37.77544581998108,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 53.401505353765366,
+      "real power": 67.66840368776424,
+      "reactive power": 77.19302871449574,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 73.98167507054673,
+      "real power": 95.33033508193463,
+      "reactive power": 3.0797166089317596,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 89.17597624398262,
+      "real power": 65.70015631530005,
+      "reactive power": 70.60265365443503,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 0.9982160727231348,
+      "real power": 56.92260915590812,
+      "reactive power": 46.91739935197209,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 7.8297594004143045,
+      "real power": 46.4772765688234,
+      "reactive power": 26.051039527238895,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 61.282752318979306,
+      "real power": 21.130717439446688,
+      "reactive power": 84.43911769155365,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 4.000977579247733,
+      "real power": 54.81818814271418,
+      "reactive power": 41.62301319539354,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 66.11758662288182,
+      "real power": 30.906122941951253,
+      "reactive power": 92.78976136204581,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 64.12520687093539,
+      "real power": 51.29706364785633,
+      "reactive power": 54.27404892672855,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 57.328446414658316,
+      "real power": 34.2165394392933,
+      "reactive power": 37.27170653884375,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 55.14050057945642,
+      "real power": 63.361879693784765,
+      "reactive power": 36.72328902727449,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 70.33800487277809,
+      "real power": 89.92673213648335,
+      "reactive power": 75.66049989294372,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 60.36543985543907,
+      "real power": 24.147926683872576,
+      "reactive power": 9.01068600009014,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 4.772351009888065,
+      "real power": 90.74399116570268,
+      "reactive power": 27.328588835689217,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 14.413649884043178,
+      "real power": 45.90450528151619,
+      "reactive power": 69.85281411376386,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 1.159212709400681,
+      "real power": 87.61638291452007,
+      "reactive power": 45.24924556111537,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 93.71422094039447,
+      "real power": 54.76518722817719,
+      "reactive power": 89.53212864736655,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 53.668632636065716,
+      "real power": 11.900975118266166,
+      "reactive power": 32.13416194344929,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 33.82127132898213,
+      "real power": 35.196208617270706,
+      "reactive power": 74.39203377302744,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 32.14052419766513,
+      "real power": 84.54757256202811,
+      "reactive power": 34.74602730578595,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 70.50803008187188,
+      "real power": 20.281900502199324,
+      "reactive power": 90.25233332264402,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 30.795059301455762,
+      "real power": 60.1177071497567,
+      "reactive power": 45.992822771480924,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 50.41239316127292,
+      "real power": 12.487338932756288,
+      "reactive power": 42.95304744607593,
+      "phases": "A"
+    }
+  },
+  "P12": {
+    "t0": {
+      "voltage": 11.394969525271536,
+      "real power": 16.99607944721461,
+      "reactive power": 81.08285034693768,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 17.984087147174478,
+      "real power": 76.07651753000067,
+      "reactive power": 58.895896879560105,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 5.75822411050384,
+      "real power": 45.218202322291226,
+      "reactive power": 27.661363847105,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 43.10656689302251,
+      "real power": 11.84799590541279,
+      "reactive power": 17.2676568909201,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 89.3738020173085,
+      "real power": 93.55874345109031,
+      "reactive power": 50.516332650081296,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 57.07383912517544,
+      "real power": 72.42218481934981,
+      "reactive power": 13.144413132191858,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 56.65337787331435,
+      "real power": 43.67912055843314,
+      "reactive power": 39.70741716088876,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 25.057880984333824,
+      "real power": 3.7221346503962693,
+      "reactive power": 69.89265992590042,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 5.160439238522152,
+      "real power": 10.240300431417925,
+      "reactive power": 90.51377635193369,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 88.53533945113288,
+      "real power": 51.57412738693592,
+      "reactive power": 21.989100260099814,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 85.87824588546717,
+      "real power": 38.5903059011205,
+      "reactive power": 55.005412547837075,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 77.60604056761,
+      "real power": 74.9876757220826,
+      "reactive power": 43.73726856275516,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 78.56185032387893,
+      "real power": 22.71057871460712,
+      "reactive power": 7.434347421303844,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 60.19366054862875,
+      "real power": 8.181031115587711,
+      "reactive power": 71.63522730198376,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 12.53011869819124,
+      "real power": 25.0340995072185,
+      "reactive power": 6.861951052429727,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 40.33215737371398,
+      "real power": 65.61588956409817,
+      "reactive power": 72.4670649560643,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 35.481994922250706,
+      "real power": 25.099694489199788,
+      "reactive power": 44.454543274983926,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 78.09837296633668,
+      "real power": 19.24056969737793,
+      "reactive power": 32.609766203085336,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 55.130605606632145,
+      "real power": 27.730590114468036,
+      "reactive power": 19.27038503646099,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 77.8255247229351,
+      "real power": 65.21401676816258,
+      "reactive power": 50.844876038367524,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 91.69838316906215,
+      "real power": 10.043340177865412,
+      "reactive power": 33.25263722614804,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 41.62249065622772,
+      "real power": 11.929319024586526,
+      "reactive power": 63.8359168893609,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 78.87849405528857,
+      "real power": 70.40549855968248,
+      "reactive power": 64.58142532528129,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 74.59772677875702,
+      "real power": 90.77811621853432,
+      "reactive power": 0.8018220627460271,
+      "phases": "B"
+    }
+  },
+  "P13": {
+    "t0": {
+      "voltage": 10.654909143773006,
+      "real power": 2.7964948044848614,
+      "reactive power": 28.223729091687876,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 64.65137248636435,
+      "real power": 90.52635951286086,
+      "reactive power": 49.58046884191965,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 32.443210041583804,
+      "real power": 24.0230586603284,
+      "reactive power": 96.69846308186882,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 5.2201675328415025,
+      "real power": 7.989114520409291,
+      "reactive power": 32.97373170528968,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 88.61021136410923,
+      "real power": 62.347593984403424,
+      "reactive power": 55.61401710782562,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 93.51416093465541,
+      "real power": 64.27550817647966,
+      "reactive power": 52.47149219408102,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 21.79749682525719,
+      "real power": 42.174549884582056,
+      "reactive power": 36.907363367252785,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 82.59604389231369,
+      "real power": 3.9649730782831627,
+      "reactive power": 96.91067647280029,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 57.93494839362401,
+      "real power": 96.18661812122583,
+      "reactive power": 77.63491433221856,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 79.88634232479379,
+      "real power": 74.6791287347807,
+      "reactive power": 20.716487758378797,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 45.77756792981681,
+      "real power": 53.566423177027374,
+      "reactive power": 53.244860121799164,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 30.92949617322698,
+      "real power": 66.18517461978357,
+      "reactive power": 24.439251714994704,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 69.77606133584472,
+      "real power": 49.39938955697816,
+      "reactive power": 59.00524598593121,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 1.3896637632149655,
+      "real power": 63.638727962628174,
+      "reactive power": 47.34798919513727,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 63.52127331197992,
+      "real power": 62.23490751445748,
+      "reactive power": 20.58714653615872,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 20.47205770316527,
+      "real power": 91.0210707054313,
+      "reactive power": 40.77076353222596,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 84.12687846649945,
+      "real power": 68.38487202306437,
+      "reactive power": 55.683850263725674,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 29.978623760347478,
+      "real power": 59.282412488623834,
+      "reactive power": 32.671873003899854,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 23.336594608808035,
+      "real power": 77.87219191984909,
+      "reactive power": 46.60981936218802,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 37.55320153080329,
+      "real power": 81.62700712646581,
+      "reactive power": 98.53645467649737,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 63.639517433017076,
+      "real power": 80.42554402020208,
+      "reactive power": 32.11808682461788,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 49.85139169744015,
+      "real power": 14.461986495169887,
+      "reactive power": 2.3560297716760936,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 67.37555953301401,
+      "real power": 89.95454264973922,
+      "reactive power": 8.349219350602288,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 96.97415963616614,
+      "real power": 77.03109621894329,
+      "reactive power": 49.21115670890289,
+      "phases": "A"
+    }
+  },
+  "P14": {
+    "t0": {
+      "voltage": 2.90803695768167,
+      "real power": 17.65661912935751,
+      "reactive power": 65.11777873565518,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 94.63434754883285,
+      "real power": 29.228677318644536,
+      "reactive power": 41.45314207757832,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 22.813658594979636,
+      "real power": 2.4744355833393405,
+      "reactive power": 38.18069852035594,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 53.28557479336551,
+      "real power": 96.96164771382263,
+      "reactive power": 21.59198902643403,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 27.99993464875088,
+      "real power": 69.44256520341965,
+      "reactive power": 22.054440932856256,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 4.24825864607612,
+      "real power": 39.99987643649384,
+      "reactive power": 10.75932734585685,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 23.846675417385466,
+      "real power": 17.34261315339607,
+      "reactive power": 31.201661881216115,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 85.89733089580471,
+      "real power": 99.46560682454275,
+      "reactive power": 59.879717902396,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 8.189486881026554,
+      "real power": 43.511917786658024,
+      "reactive power": 90.08894094531259,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 6.711919929861776,
+      "real power": 21.904053612690987,
+      "reactive power": 57.584831492825295,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 9.80426927896405,
+      "real power": 2.744368876248582,
+      "reactive power": 24.86605879516364,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 39.51628443890623,
+      "real power": 86.39843719629359,
+      "reactive power": 57.69270980963317,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 60.374081202777,
+      "real power": 9.52723095622906,
+      "reactive power": 29.187803418691793,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 51.3299479352557,
+      "real power": 52.01531198768296,
+      "reactive power": 70.17371480596,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 58.64991735718363,
+      "real power": 6.4027478776983004,
+      "reactive power": 30.940570624752183,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 11.485544509915213,
+      "real power": 21.717901484062963,
+      "reactive power": 63.61030612197827,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 63.18154288821081,
+      "real power": 37.08385918312137,
+      "reactive power": 47.909287006066506,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 94.89179961125184,
+      "real power": 68.55920667848349,
+      "reactive power": 39.94360046897816,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 27.945297591696495,
+      "real power": 76.38094370092375,
+      "reactive power": 34.971748424237894,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 13.208613375684376,
+      "real power": 24.73536020585859,
+      "reactive power": 44.971677210637374,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 19.917858893174913,
+      "real power": 99.78054707305691,
+      "reactive power": 36.24442626685024,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 99.84876155184068,
+      "real power": 0.8697743494974652,
+      "reactive power": 4.524945984009809,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 14.607059381465149,
+      "real power": 80.7719837864618,
+      "reactive power": 22.948394827647157,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 49.036423071701286,
+      "real power": 71.78083829844195,
+      "reactive power": 32.84542755095031,
+      "phases": "A"
+    }
+  },
+  "P15": {
+    "t0": {
+      "voltage": 18.649736982809628,
+      "real power": 4.925812084705017,
+      "reactive power": 99.68494447979205,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 31.487486962545642,
+      "real power": 17.65904459224429,
+      "reactive power": 44.120956486784856,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 21.805113791030106,
+      "real power": 97.22889689741594,
+      "reactive power": 6.797777928798821,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 8.160989794406426,
+      "real power": 29.101410918207492,
+      "reactive power": 82.0140205012222,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 3.882030481052734,
+      "real power": 88.76515617328072,
+      "reactive power": 53.76682464003297,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 62.20137927476237,
+      "real power": 37.76434527964755,
+      "reactive power": 74.35116151605766,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 80.25846342633751,
+      "real power": 3.286882427192761,
+      "reactive power": 53.10827307129785,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 78.76569435282991,
+      "real power": 16.374643281924396,
+      "reactive power": 82.67786523739613,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 37.45509567205223,
+      "real power": 93.57591893006446,
+      "reactive power": 48.12739809326527,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 6.851517333054802,
+      "real power": 43.62021647714235,
+      "reactive power": 88.44103046991368,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 96.11593776126304,
+      "real power": 38.038291549686235,
+      "reactive power": 5.260501505301574,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 10.78050111797888,
+      "real power": 84.4842603658179,
+      "reactive power": 83.70648928500272,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 31.8722320976767,
+      "real power": 64.84691137910009,
+      "reactive power": 58.688593519951425,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 72.77476065279636,
+      "real power": 50.96001364652005,
+      "reactive power": 35.98838978526852,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 75.42048894780613,
+      "real power": 63.08943954500331,
+      "reactive power": 50.307631554468834,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 44.75801095638373,
+      "real power": 59.431184373887206,
+      "reactive power": 22.501329750899835,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 36.01869300286078,
+      "real power": 33.53163867462074,
+      "reactive power": 21.37158422086293,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 31.44252781466873,
+      "real power": 87.456969124501,
+      "reactive power": 81.58804380972501,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 0.3248168605650359,
+      "real power": 47.98813749430324,
+      "reactive power": 59.945507863670635,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 97.96954031757049,
+      "real power": 10.268208453462268,
+      "reactive power": 2.88774961217515,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 10.518513786174278,
+      "real power": 74.17415480285602,
+      "reactive power": 65.03710804803676,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 6.436105595764197,
+      "real power": 81.38804943517498,
+      "reactive power": 39.78556746474341,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 3.3005974552045347,
+      "real power": 99.42247885107663,
+      "reactive power": 51.87991358702347,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 38.639079323729234,
+      "real power": 5.230281562226846,
+      "reactive power": 68.1095678017015,
+      "phases": "A"
+    }
+  },
+  "P16": {
+    "t0": {
+      "voltage": 57.6969136946848,
+      "real power": 58.43487422900141,
+      "reactive power": 91.1047544574189,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 15.527093743095167,
+      "real power": 61.103992729202304,
+      "reactive power": 58.50252676029767,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 42.43856718314019,
+      "real power": 63.61089468207754,
+      "reactive power": 29.570995689652346,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 56.64987513342133,
+      "real power": 4.654401463140512,
+      "reactive power": 6.0432537147295795,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 64.72779118565796,
+      "real power": 37.9564727419353,
+      "reactive power": 88.87096205034801,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 43.36842648427013,
+      "real power": 26.68253421941811,
+      "reactive power": 20.820241488391943,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 76.99702650645776,
+      "real power": 43.35150120004052,
+      "reactive power": 86.38299389861075,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 76.3098846094047,
+      "real power": 70.25120127706747,
+      "reactive power": 9.459255073016282,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 93.47575733801904,
+      "real power": 69.42984468272769,
+      "reactive power": 2.7565196951372717,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 30.453831630128324,
+      "real power": 32.13573001745702,
+      "reactive power": 58.53569101682275,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 20.488446553506368,
+      "real power": 16.270704071265563,
+      "reactive power": 90.47075412994138,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 30.235660810457244,
+      "real power": 38.330129992244956,
+      "reactive power": 51.49042278101612,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 43.67676413367636,
+      "real power": 14.43370220540574,
+      "reactive power": 11.330000199962697,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 41.67009788071798,
+      "real power": 83.56012848571706,
+      "reactive power": 18.582091226365684,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 75.5116336263124,
+      "real power": 81.5865008707753,
+      "reactive power": 31.71602863839179,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 32.404288224025876,
+      "real power": 88.9541504805214,
+      "reactive power": 18.000293576425353,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 1.2585054365227832,
+      "real power": 0.40610110249766906,
+      "reactive power": 59.66548546735875,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 98.70397721781057,
+      "real power": 5.629843345691454,
+      "reactive power": 90.12301903585282,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 55.86848606436629,
+      "real power": 95.92962656937813,
+      "reactive power": 92.81034647395843,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 14.85204845410265,
+      "real power": 66.52792742812187,
+      "reactive power": 79.64804284641312,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 28.577114193591957,
+      "real power": 85.36916355615995,
+      "reactive power": 57.880305862089386,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 4.073900597544711,
+      "real power": 90.94996029670766,
+      "reactive power": 2.6461873715985074,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 31.02578494352063,
+      "real power": 93.0727054216681,
+      "reactive power": 73.97888180560817,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 74.76150908207612,
+      "real power": 35.40232781271694,
+      "reactive power": 43.135791296617384,
+      "phases": "B"
+    }
+  },
+  "P17": {
+    "t0": {
+      "voltage": 43.95723215344975,
+      "real power": 10.390731855714296,
+      "reactive power": 53.77779890091601,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 97.85215310168772,
+      "real power": 58.83952232209426,
+      "reactive power": 61.155414890425185,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 89.125703767466,
+      "real power": 13.178391895113784,
+      "reactive power": 95.11463773027509,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 96.66551121225115,
+      "real power": 28.86125023825231,
+      "reactive power": 94.39182134985465,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 56.81793942495208,
+      "real power": 32.327889660148045,
+      "reactive power": 66.06618828675414,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 42.36868543484874,
+      "real power": 39.014487816996365,
+      "reactive power": 20.359391684931882,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 77.40617851164524,
+      "real power": 47.92901646776443,
+      "reactive power": 15.612686709810541,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 75.83111997426892,
+      "real power": 58.75238097873966,
+      "reactive power": 11.657674438628096,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 35.4349680905247,
+      "real power": 91.1855482820769,
+      "reactive power": 94.70910873719836,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 32.61562787367126,
+      "real power": 98.20202884301513,
+      "reactive power": 51.008026441440066,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 20.172000871180295,
+      "real power": 84.16642764377035,
+      "reactive power": 61.75657664742952,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 26.59281394859303,
+      "real power": 93.56388015528051,
+      "reactive power": 54.76219283461854,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 97.0821074089257,
+      "real power": 16.893315530828446,
+      "reactive power": 14.550654565008491,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 60.62315514789904,
+      "real power": 91.80507730592456,
+      "reactive power": 71.24986626223468,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 47.02737098293738,
+      "real power": 5.156625967906859,
+      "reactive power": 47.87528064970593,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 81.36197626364347,
+      "real power": 18.651476791650047,
+      "reactive power": 76.61540507914249,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 39.292812286072845,
+      "real power": 45.945870090230855,
+      "reactive power": 61.08739249112194,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 37.28881243766524,
+      "real power": 69.05686481184551,
+      "reactive power": 73.16146304473945,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 88.83486141431001,
+      "real power": 51.928681634160725,
+      "reactive power": 4.627960600873415,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 20.47373925677921,
+      "real power": 61.44896722225344,
+      "reactive power": 38.75143359677289,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 8.335903334819116,
+      "real power": 55.57632846840747,
+      "reactive power": 98.75471959998352,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 46.0619829097212,
+      "real power": 51.393489434127936,
+      "reactive power": 46.50761467157726,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 45.992032771222256,
+      "real power": 44.80832210170077,
+      "reactive power": 36.14429075516503,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 27.485026510237674,
+      "real power": 88.9360882918986,
+      "reactive power": 95.63120742120165,
+      "phases": "A"
+    }
+  },
+  "P18": {
+    "t0": {
+      "voltage": 22.89570861378316,
+      "real power": 35.93598953313288,
+      "reactive power": 38.737670069981846,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 65.43964890139297,
+      "real power": 29.69913069802046,
+      "reactive power": 26.57316705998084,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 42.56068605566901,
+      "real power": 19.286961039877315,
+      "reactive power": 66.95235713355959,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 17.83633926940693,
+      "real power": 45.35056930896329,
+      "reactive power": 20.876031512646986,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 59.099151839926535,
+      "real power": 12.777220717066696,
+      "reactive power": 63.88713360074364,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 62.97026072039357,
+      "real power": 91.93664304520827,
+      "reactive power": 69.2070609268519,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 50.275695165239085,
+      "real power": 17.253579295082954,
+      "reactive power": 53.0156048624278,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 99.8623440079335,
+      "real power": 17.76939231809751,
+      "reactive power": 27.456480121169903,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 61.69395962274995,
+      "real power": 75.94187287490718,
+      "reactive power": 40.046770272855525,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 85.1407368180917,
+      "real power": 45.4531289395811,
+      "reactive power": 85.16751183449924,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 44.325393617091166,
+      "real power": 30.72420229686378,
+      "reactive power": 3.0866740705063567,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 19.037711758389932,
+      "real power": 7.154470308804228,
+      "reactive power": 0.3076950410521029,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 36.80871492124744,
+      "real power": 63.251766899450345,
+      "reactive power": 67.91333557511926,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 53.74365562376059,
+      "real power": 60.87486874515429,
+      "reactive power": 59.775238181348875,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 23.802413757203954,
+      "real power": 4.442606083736933,
+      "reactive power": 22.405070582593613,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 69.63438484755717,
+      "real power": 91.59063034325574,
+      "reactive power": 9.174247400695368,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 53.95382179781238,
+      "real power": 55.153012796385404,
+      "reactive power": 24.80086947419473,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 73.4644637945908,
+      "real power": 59.15938591851438,
+      "reactive power": 53.49032516003203,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 97.70729622385952,
+      "real power": 90.79896510679247,
+      "reactive power": 64.00463986174472,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 32.11347908582284,
+      "real power": 88.45114133129263,
+      "reactive power": 55.46684104933687,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 50.06810207834418,
+      "real power": 80.06897529373002,
+      "reactive power": 90.19224705733194,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 82.26523764647867,
+      "real power": 59.809480964876116,
+      "reactive power": 30.242694427891117,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 99.76094202142914,
+      "real power": 30.95689849482891,
+      "reactive power": 80.04947040220588,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 65.8641061542554,
+      "real power": 61.42530164334475,
+      "reactive power": 1.8659459947593104,
+      "phases": "A"
+    }
+  },
+  "P19": {
+    "t0": {
+      "voltage": 52.65478453721934,
+      "real power": 93.58723443878351,
+      "reactive power": 39.08961467422153,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 58.46242884937577,
+      "real power": 84.43398988285233,
+      "reactive power": 6.5614901088409505,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 68.26231736375962,
+      "real power": 4.1232180005781665,
+      "reactive power": 31.353107735904494,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 88.59275718257263,
+      "real power": 66.32217444274335,
+      "reactive power": 58.200161035128296,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 8.24865628218049,
+      "real power": 96.84106474208043,
+      "reactive power": 30.159407932210758,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 77.5502390111395,
+      "real power": 94.25037101113357,
+      "reactive power": 68.82667196652704,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 26.629583920941414,
+      "real power": 37.11956620887764,
+      "reactive power": 65.3969289334163,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 70.37933422300942,
+      "real power": 7.318951155572995,
+      "reactive power": 42.222093870702324,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 85.02833752134589,
+      "real power": 51.25925328161942,
+      "reactive power": 18.661303843616594,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 11.059701926374254,
+      "real power": 17.900913226851145,
+      "reactive power": 61.16265951978854,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 55.8245636717626,
+      "real power": 11.794122552384344,
+      "reactive power": 23.084302670142897,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 74.63789286100283,
+      "real power": 20.787704679447316,
+      "reactive power": 57.18549341476206,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 88.61661612105678,
+      "real power": 64.94961537911178,
+      "reactive power": 68.09613309369418,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 45.0645135873669,
+      "real power": 92.7600440206548,
+      "reactive power": 10.042730806013134,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 90.32569553475604,
+      "real power": 60.39100989353672,
+      "reactive power": 86.14223872278602,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 90.54226000261275,
+      "real power": 99.63291326710738,
+      "reactive power": 18.15670879331377,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 45.18701319766429,
+      "real power": 20.85717431927622,
+      "reactive power": 53.686544599887085,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 1.090428448481473,
+      "real power": 28.625141800790498,
+      "reactive power": 34.5726657087134,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 17.869854195732316,
+      "real power": 42.92075241350077,
+      "reactive power": 77.65160417397271,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 11.432234821879083,
+      "real power": 76.65409255096597,
+      "reactive power": 49.50031538791312,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 8.558294508500685,
+      "real power": 82.34767232623096,
+      "reactive power": 3.2147801412075405,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 0.48615885759709654,
+      "real power": 19.066644586796166,
+      "reactive power": 85.54798259920227,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 35.76561546429736,
+      "real power": 39.94829933858259,
+      "reactive power": 35.71558262457398,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 95.15624559255015,
+      "real power": 68.9656112990015,
+      "reactive power": 62.44695309422366,
+      "phases": "A"
+    }
+  },
+  "P20": {
+    "t0": {
+      "voltage": 15.112944151482521,
+      "real power": 8.12225291956551,
+      "reactive power": 46.691655727938475,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 73.43316403049074,
+      "real power": 55.547784464905604,
+      "reactive power": 40.52485791079423,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 30.104667009278074,
+      "real power": 14.51646069871626,
+      "reactive power": 90.70691948249198,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 42.79196338472618,
+      "real power": 64.30187369674206,
+      "reactive power": 39.59454186049044,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 37.48498808818791,
+      "real power": 50.71094101499365,
+      "reactive power": 45.186842856287846,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 81.86993108503482,
+      "real power": 94.96956857649332,
+      "reactive power": 94.15612214133161,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 47.57133129408258,
+      "real power": 65.07002035043821,
+      "reactive power": 91.69846553489025,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 59.031982139229044,
+      "real power": 91.38429635843546,
+      "reactive power": 12.694338377505387,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 39.89441737826949,
+      "real power": 3.4393985024413487,
+      "reactive power": 61.36781701628622,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 60.91118673750512,
+      "real power": 52.1651389087812,
+      "reactive power": 70.91498807675778,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 95.18636205125469,
+      "real power": 34.458708580891916,
+      "reactive power": 58.74686106056387,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 88.91527248740563,
+      "real power": 64.06891520904708,
+      "reactive power": 5.177524557023904,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 11.320050933658043,
+      "real power": 47.14413843711903,
+      "reactive power": 76.58632386673465,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 49.60958132976231,
+      "real power": 57.742208008200215,
+      "reactive power": 41.30315642182411,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 89.95284938696355,
+      "real power": 35.211441330899426,
+      "reactive power": 98.71942341303482,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 45.858371469099154,
+      "real power": 48.621935747086,
+      "reactive power": 53.50376083844436,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 47.578419732331646,
+      "real power": 22.09443974958225,
+      "reactive power": 63.20185443716202,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 96.530935262996,
+      "real power": 74.31049471556703,
+      "reactive power": 22.765861534104815,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 45.51856615074817,
+      "real power": 21.48402755255543,
+      "reactive power": 50.92369987938705,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 20.426288299353846,
+      "real power": 87.44961822365963,
+      "reactive power": 9.582908118092082,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 67.67548969813338,
+      "real power": 38.11243490899157,
+      "reactive power": 36.16713706547839,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 96.56060784931258,
+      "real power": 85.82665974174421,
+      "reactive power": 9.95339599135029,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 73.27845997867793,
+      "real power": 87.55085343694611,
+      "reactive power": 77.01164386691384,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 92.81908394723013,
+      "real power": 94.14302692809633,
+      "reactive power": 59.10907542184034,
+      "phases": "A"
+    }
+  },
+  "P21": {
+    "t0": {
+      "voltage": 80.99438135192854,
+      "real power": 2.8672209751510636,
+      "reactive power": 55.816665550599865,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 49.009812241422004,
+      "real power": 92.88686706203016,
+      "reactive power": 37.164145094992676,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 7.753846275236064,
+      "real power": 12.319251392864139,
+      "reactive power": 72.75166842406347,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 25.178899189317562,
+      "real power": 66.01132852475315,
+      "reactive power": 91.89427531938122,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 1.62006456002044,
+      "real power": 78.5805248705894,
+      "reactive power": 47.71623853602556,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 49.81691576956659,
+      "real power": 54.30257885454647,
+      "reactive power": 85.97293989210954,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 55.40913308849724,
+      "real power": 92.93822238908209,
+      "reactive power": 43.12779315200479,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 19.36764427273824,
+      "real power": 59.85427964410067,
+      "reactive power": 30.57461853841844,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 30.004159143130305,
+      "real power": 72.49285215569354,
+      "reactive power": 46.53719628884663,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 52.84273098629677,
+      "real power": 75.56411063215545,
+      "reactive power": 12.629387177020767,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 11.739550806813504,
+      "real power": 76.4638789259952,
+      "reactive power": 37.912830385021046,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 77.6905122840968,
+      "real power": 34.409943253374685,
+      "reactive power": 62.82136899957532,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 32.416333598935,
+      "real power": 14.119428084794395,
+      "reactive power": 31.06165289854379,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 55.76823832232799,
+      "real power": 5.867078254603053,
+      "reactive power": 64.41521996355212,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 63.64988292899601,
+      "real power": 18.423708576425334,
+      "reactive power": 10.23739955419366,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 4.75208442359375,
+      "real power": 21.830136237002296,
+      "reactive power": 85.56947364042736,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 23.913596099821422,
+      "real power": 68.24986257745607,
+      "reactive power": 52.13748910749641,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 66.39297470501923,
+      "real power": 55.651172950330704,
+      "reactive power": 10.173080019948577,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 57.47395243564106,
+      "real power": 15.094668538446488,
+      "reactive power": 88.55997856602511,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 38.80918351217798,
+      "real power": 51.12885792338678,
+      "reactive power": 85.98839752011956,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 7.0523413799319705,
+      "real power": 29.303493707196903,
+      "reactive power": 30.08429462230736,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 61.63146990063709,
+      "real power": 92.13916295939822,
+      "reactive power": 50.93583440407245,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 78.4299660431833,
+      "real power": 5.110533001634209,
+      "reactive power": 25.34831998710588,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 22.109225260200738,
+      "real power": 85.8056417736138,
+      "reactive power": 77.80530983996351,
+      "phases": "A"
+    }
+  },
+  "P22": {
+    "t0": {
+      "voltage": 20.92112823108453,
+      "real power": 95.62889082261829,
+      "reactive power": 67.94659050602792,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 55.803691999345,
+      "real power": 94.68283166949661,
+      "reactive power": 1.5518055807925424,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 66.06124072055901,
+      "real power": 56.17488826278139,
+      "reactive power": 99.08389597601166,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 35.15950127986209,
+      "real power": 71.43150020237105,
+      "reactive power": 86.08448981220262,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 92.16210718117821,
+      "real power": 96.08938374010845,
+      "reactive power": 78.95488832303964,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 38.74030240486614,
+      "real power": 21.64032971926728,
+      "reactive power": 29.009898641711384,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 1.218989856218855,
+      "real power": 80.03580492731416,
+      "reactive power": 55.26716850539475,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 90.24184439530367,
+      "real power": 10.995795404613972,
+      "reactive power": 74.49618612374088,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 63.851046451394346,
+      "real power": 42.14736266621413,
+      "reactive power": 28.802201779844662,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 34.84640784042161,
+      "real power": 78.0750608867208,
+      "reactive power": 2.5169926450130164,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 82.2618738966538,
+      "real power": 65.51957320150034,
+      "reactive power": 88.0252331966501,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 42.508577707192885,
+      "real power": 38.22372464430469,
+      "reactive power": 61.95519020593188,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 90.01557438500602,
+      "real power": 65.71126168685927,
+      "reactive power": 3.9239066904219855,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 54.90106223876203,
+      "real power": 94.15562980883104,
+      "reactive power": 86.0332589655396,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 38.58869064350826,
+      "real power": 7.815418673061991,
+      "reactive power": 66.86226010708192,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 77.61244476986322,
+      "real power": 82.7250934755212,
+      "reactive power": 50.922152899615504,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 62.21543598366186,
+      "real power": 30.55840747673979,
+      "reactive power": 25.495224835500352,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 68.31795130187072,
+      "real power": 29.103524199714627,
+      "reactive power": 31.128492301253306,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 50.52987632007394,
+      "real power": 9.007419771491854,
+      "reactive power": 97.21539896570053,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 3.9660004490042478,
+      "real power": 70.99741630272182,
+      "reactive power": 72.68826008297607,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 23.052415601780417,
+      "real power": 30.580147995135743,
+      "reactive power": 77.74594266282418,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 23.046107465378796,
+      "real power": 41.78900803881892,
+      "reactive power": 38.97661359146532,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 59.89606861723084,
+      "real power": 19.57214589748123,
+      "reactive power": 54.27555575427737,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 72.39586021357624,
+      "real power": 19.38723375066954,
+      "reactive power": 49.59498066081619,
+      "phases": "A"
+    }
+  },
+  "P23": {
+    "t0": {
+      "voltage": 66.90921869430748,
+      "real power": 42.23442850975567,
+      "reactive power": 26.679451717346257,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 87.17428544681505,
+      "real power": 3.2320165574917237,
+      "reactive power": 11.312639521517676,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 6.798774031973709,
+      "real power": 75.3348117244098,
+      "reactive power": 29.486993452457423,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 10.153557312906859,
+      "real power": 71.92298635608985,
+      "reactive power": 27.849300931626598,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 13.039788335608392,
+      "real power": 36.591087578998774,
+      "reactive power": 29.95654870233976,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 79.50449235871689,
+      "real power": 80.04624260683448,
+      "reactive power": 24.941949256339736,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 3.238125430842631,
+      "real power": 38.27753921782322,
+      "reactive power": 16.746021097669818,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 87.23102951603067,
+      "real power": 11.01096074935728,
+      "reactive power": 3.7455630739581802,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 63.9711972482828,
+      "real power": 89.20766942091008,
+      "reactive power": 26.377329439948827,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 88.59562267740507,
+      "real power": 49.13177276927488,
+      "reactive power": 11.611080932808093,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 56.948095692602216,
+      "real power": 68.85971943732116,
+      "reactive power": 89.17319899889404,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 26.998619792715505,
+      "real power": 14.88987193943655,
+      "reactive power": 89.18333955784293,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 2.6109894582716953,
+      "real power": 90.01334330345252,
+      "reactive power": 3.6443444402166403,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 38.56236838428714,
+      "real power": 17.842825387678563,
+      "reactive power": 98.49362965495767,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 43.29865709833418,
+      "real power": 10.131628150283067,
+      "reactive power": 38.22020616447267,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 92.4546582113051,
+      "real power": 7.979351405238344,
+      "reactive power": 84.57169898515869,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 27.14908007795368,
+      "real power": 5.649555978192444,
+      "reactive power": 19.535224166203825,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 57.79582024209948,
+      "real power": 53.72441452337851,
+      "reactive power": 18.95254455617654,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 63.63574470784389,
+      "real power": 60.718331634697876,
+      "reactive power": 19.041563008057395,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 24.710984018383385,
+      "real power": 32.765869899784086,
+      "reactive power": 58.968487932330824,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 83.32989201222266,
+      "real power": 55.369449599217525,
+      "reactive power": 7.375667015347275,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 68.1652571090779,
+      "real power": 65.77456477750009,
+      "reactive power": 82.44321054315064,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 23.60591372441576,
+      "real power": 57.43109150609856,
+      "reactive power": 88.92888276874102,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 97.3595656009979,
+      "real power": 70.87271901826394,
+      "reactive power": 7.617407694843992,
+      "phases": "B"
+    }
+  },
+  "P24": {
+    "t0": {
+      "voltage": 21.461941262186578,
+      "real power": 98.62046073782896,
+      "reactive power": 99.47003578601353,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 76.3166503502534,
+      "real power": 73.1305316262714,
+      "reactive power": 62.277408672347065,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 74.73299922936515,
+      "real power": 65.48287805124991,
+      "reactive power": 79.23766504129436,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 5.529746799838453,
+      "real power": 4.6622641211776505,
+      "reactive power": 55.89837768029362,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 12.122197197105677,
+      "real power": 0.32256580218975595,
+      "reactive power": 49.16142336039577,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 82.9626683535822,
+      "real power": 20.384691588773652,
+      "reactive power": 54.86955457310364,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 51.211000045815005,
+      "real power": 31.255442964229154,
+      "reactive power": 66.04781816588708,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 57.86787604639918,
+      "real power": 33.04419968221223,
+      "reactive power": 91.40942473965751,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 68.27042805897337,
+      "real power": 4.6878393298756205,
+      "reactive power": 51.43183813697531,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 27.362358825120282,
+      "real power": 50.535031522523965,
+      "reactive power": 55.754845119910556,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 9.209084418494019,
+      "real power": 34.87065563094324,
+      "reactive power": 86.1649450426444,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 15.800464363157008,
+      "real power": 60.203021451763284,
+      "reactive power": 89.29467524665975,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 50.431105650016164,
+      "real power": 52.114258967096006,
+      "reactive power": 99.1358013738145,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 92.48629967290904,
+      "real power": 11.11126561859982,
+      "reactive power": 13.128927137825475,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 54.59469335316104,
+      "real power": 78.75058924756532,
+      "reactive power": 34.36843431280554,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 60.681419740503564,
+      "real power": 84.27376048630401,
+      "reactive power": 17.354180224544212,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 82.88251477201699,
+      "real power": 55.682805123205036,
+      "reactive power": 64.12618759211482,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 16.09972755997795,
+      "real power": 68.26978658511234,
+      "reactive power": 29.0308580202682,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 26.172463292071303,
+      "real power": 12.27990231780085,
+      "reactive power": 36.30400200845649,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 72.09767932465519,
+      "real power": 77.71730189021969,
+      "reactive power": 20.94204663961221,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 94.37816839164442,
+      "real power": 39.19311688739252,
+      "reactive power": 77.56892205044285,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 44.9133921696924,
+      "real power": 25.423945985573905,
+      "reactive power": 37.312688763037215,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 67.96543254661121,
+      "real power": 8.366126098461146,
+      "reactive power": 20.74318515574206,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 18.817693537661782,
+      "real power": 44.23534118769331,
+      "reactive power": 43.38830837149774,
+      "phases": "B"
+    }
+  },
+  "P25": {
+    "t0": {
+      "voltage": 56.812732323875956,
+      "real power": 22.300030057980745,
+      "reactive power": 78.15106566832571,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 80.88697173499762,
+      "real power": 20.903576795800593,
+      "reactive power": 51.910127921847405,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 22.330442386503734,
+      "real power": 12.113629399261605,
+      "reactive power": 19.51103128183935,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 76.35434623248622,
+      "real power": 48.12196978850613,
+      "reactive power": 36.917468889837004,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 10.237832635776567,
+      "real power": 17.794503006843044,
+      "reactive power": 36.065005311675826,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 94.4108151031778,
+      "real power": 41.333326755689136,
+      "reactive power": 52.97905910840272,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 90.82638727819608,
+      "real power": 66.606554159571,
+      "reactive power": 70.7530268444163,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 74.25187209153913,
+      "real power": 6.643030338157285,
+      "reactive power": 52.04451038849645,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 49.345097286458405,
+      "real power": 36.08756446319988,
+      "reactive power": 80.88080420199815,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 25.317312929735415,
+      "real power": 89.0829637383925,
+      "reactive power": 87.78419540539404,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 78.71125575796437,
+      "real power": 29.67161637290616,
+      "reactive power": 16.954911819591,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 28.020833227390685,
+      "real power": 81.94140455258527,
+      "reactive power": 3.8265276567362894,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 21.61373140805146,
+      "real power": 66.36218314629235,
+      "reactive power": 92.7097424038143,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 46.42469560498501,
+      "real power": 89.26606658588615,
+      "reactive power": 6.103683789496184,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 88.67052414747735,
+      "real power": 50.4916560989731,
+      "reactive power": 19.357501777787768,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 11.027834396230162,
+      "real power": 78.73591287367664,
+      "reactive power": 42.61498278169342,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 71.882542904534,
+      "real power": 85.00830781073205,
+      "reactive power": 58.439608422848245,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 89.55467237077403,
+      "real power": 84.52952319743109,
+      "reactive power": 29.655513997981796,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 88.06263016181713,
+      "real power": 68.17036760343133,
+      "reactive power": 90.97711055459375,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 77.15696758592394,
+      "real power": 89.528618387222,
+      "reactive power": 12.354530516727745,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 46.08219896198153,
+      "real power": 30.92531393423038,
+      "reactive power": 10.547700564285211,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 37.1817762266219,
+      "real power": 7.7834702964822196,
+      "reactive power": 90.28390747295826,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 76.93903072003819,
+      "real power": 77.73887560218651,
+      "reactive power": 40.842235129452355,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 26.52026116826264,
+      "real power": 48.447367940768096,
+      "reactive power": 58.19195248003898,
+      "phases": "B"
+    }
+  },
+  "P26": {
+    "t0": {
+      "voltage": 98.89627397996436,
+      "real power": 70.76859360443342,
+      "reactive power": 51.12696416208644,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 98.54324929591289,
+      "real power": 39.45464129683485,
+      "reactive power": 12.265983374308275,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 39.7228830613505,
+      "real power": 29.876253698231302,
+      "reactive power": 47.85359911341005,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 42.72870079490637,
+      "real power": 34.10535534245101,
+      "reactive power": 32.589656071196,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 90.40928425548043,
+      "real power": 72.12386709423241,
+      "reactive power": 73.29929643766737,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 1.7157375262356056,
+      "real power": 41.34915913717023,
+      "reactive power": 23.501334745167323,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 25.106887348467467,
+      "real power": 53.04155687172328,
+      "reactive power": 32.11983899326438,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 51.14492550687615,
+      "real power": 56.28334111411848,
+      "reactive power": 32.02509642828378,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 89.90247336332176,
+      "real power": 31.98555066965396,
+      "reactive power": 81.00893678603018,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 52.477018140185336,
+      "real power": 55.19382858326981,
+      "reactive power": 8.388202214661877,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 77.97380212489631,
+      "real power": 22.07839964219913,
+      "reactive power": 84.5573732253246,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 28.105368622701555,
+      "real power": 6.907411839367638,
+      "reactive power": 91.49243927270382,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 58.09957242375745,
+      "real power": 20.1149520273187,
+      "reactive power": 2.998257257369197,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 95.35671079279837,
+      "real power": 13.91360453531927,
+      "reactive power": 27.713195102864418,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 24.971985576098056,
+      "real power": 73.54812123429693,
+      "reactive power": 77.82000214810277,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 31.16515658365513,
+      "real power": 63.76140994468075,
+      "reactive power": 25.19463937610903,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 35.57040224664888,
+      "real power": 1.8750544608554076,
+      "reactive power": 98.45861767260986,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 51.1867956043193,
+      "real power": 3.1145136900403436,
+      "reactive power": 61.71961848112709,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 74.35443696634223,
+      "real power": 86.18245245638123,
+      "reactive power": 19.749073532924697,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 75.540562110032,
+      "real power": 53.19802576401796,
+      "reactive power": 97.70254230014353,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 56.249519124633906,
+      "real power": 39.783106826895235,
+      "reactive power": 77.67435945556869,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 82.97649210078801,
+      "real power": 44.89088427666553,
+      "reactive power": 23.29253346227643,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 26.72098660070522,
+      "real power": 5.384402384766506,
+      "reactive power": 77.37743732783187,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 17.095256389701664,
+      "real power": 29.988316431031446,
+      "reactive power": 25.7517462176313,
+      "phases": "A"
+    }
+  },
+  "P27": {
+    "t0": {
+      "voltage": 47.196373116363034,
+      "real power": 18.037426050258965,
+      "reactive power": 58.88935935072509,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 27.274007889291674,
+      "real power": 33.5415302482837,
+      "reactive power": 41.17672053124952,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 91.16414244990621,
+      "real power": 8.150234032649372,
+      "reactive power": 66.59329518377965,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 37.05859907069541,
+      "real power": 2.743807000822718,
+      "reactive power": 44.87363371083089,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 6.30237239540381,
+      "real power": 67.37484248556727,
+      "reactive power": 70.24174142193597,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 56.70799200087634,
+      "real power": 86.85296270570474,
+      "reactive power": 80.3029696361299,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 86.60781924575869,
+      "real power": 17.84117777651596,
+      "reactive power": 7.800474511987787,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 35.480735966454304,
+      "real power": 78.62278452659375,
+      "reactive power": 59.65633613200247,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 15.529390208053616,
+      "real power": 55.06873262105556,
+      "reactive power": 63.32310324162233,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 70.76023372067728,
+      "real power": 80.26440292763417,
+      "reactive power": 44.81856240661527,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 33.08720209134586,
+      "real power": 23.95972487113638,
+      "reactive power": 72.93319104753509,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 13.14540230787472,
+      "real power": 88.9628798588409,
+      "reactive power": 9.693570279610075,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 8.119861278283846,
+      "real power": 6.977664054823752,
+      "reactive power": 28.992034480880193,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 13.038783436195011,
+      "real power": 91.73143337986157,
+      "reactive power": 80.34815723936494,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 39.90333447358737,
+      "real power": 24.481773255853746,
+      "reactive power": 92.68220595307308,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 6.0423759193476645,
+      "real power": 11.736556893209404,
+      "reactive power": 31.283982191809468,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 71.59817658351464,
+      "real power": 4.8103650596001195,
+      "reactive power": 13.446285711016925,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 18.661319623237127,
+      "real power": 15.92596753319272,
+      "reactive power": 47.35096173228962,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 26.211406616734855,
+      "real power": 89.13058858749649,
+      "reactive power": 55.67559025563262,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 59.036202636779045,
+      "real power": 91.70290648192203,
+      "reactive power": 19.41809572971902,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 63.708110348575,
+      "real power": 26.668474914592753,
+      "reactive power": 71.73803030663468,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 2.4670990765665257,
+      "real power": 97.07409561052455,
+      "reactive power": 73.18424421329162,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 56.03858421382731,
+      "real power": 67.76254984983763,
+      "reactive power": 39.4735044441324,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 92.71441186040244,
+      "real power": 99.77377944714128,
+      "reactive power": 34.29067240281702,
+      "phases": "B"
+    }
+  },
+  "P28": {
+    "t0": {
+      "voltage": 86.0451432032981,
+      "real power": 19.25434618738292,
+      "reactive power": 32.732048950739845,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 1.2445802757509061,
+      "real power": 96.96179224217424,
+      "reactive power": 70.96556564181238,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 64.55402342931352,
+      "real power": 30.49240683471033,
+      "reactive power": 84.1465086166363,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 85.04531614062061,
+      "real power": 96.6707231642496,
+      "reactive power": 27.57975480698286,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 96.29814975017396,
+      "real power": 11.933297671814703,
+      "reactive power": 18.32223746000745,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 73.39475015296675,
+      "real power": 28.194837392432948,
+      "reactive power": 61.439523263012276,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 86.34454175287783,
+      "real power": 26.30681329732505,
+      "reactive power": 40.332265743712284,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 4.441038086124449,
+      "real power": 26.936485970579582,
+      "reactive power": 31.114520490363475,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 40.16933585727402,
+      "real power": 76.2083447378887,
+      "reactive power": 63.29476568856664,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 77.27235362678245,
+      "real power": 70.84966184869734,
+      "reactive power": 14.021781247739963,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 49.634890267901845,
+      "real power": 28.68566029523487,
+      "reactive power": 16.06187570038934,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 18.345797851123933,
+      "real power": 63.16245412636407,
+      "reactive power": 79.66562339663831,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 88.12777344049351,
+      "real power": 90.69063583411464,
+      "reactive power": 28.263261085830127,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 68.69054693176844,
+      "real power": 75.36821269065405,
+      "reactive power": 2.430108744503501,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 77.20075442738893,
+      "real power": 53.035805295167584,
+      "reactive power": 39.41438636376592,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 97.61548622730518,
+      "real power": 20.994705123963474,
+      "reactive power": 99.51079849449488,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 80.10843473245728,
+      "real power": 73.79132841072442,
+      "reactive power": 27.23424776964868,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 52.035786898778824,
+      "real power": 9.963750308989194,
+      "reactive power": 38.88938542987368,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 80.58857309078124,
+      "real power": 52.39192528663374,
+      "reactive power": 93.55872551186049,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 6.011276820402934,
+      "real power": 28.242285588423744,
+      "reactive power": 81.11030589527928,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 54.55529045256563,
+      "real power": 73.80496536194508,
+      "reactive power": 55.91818313615096,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 21.9788542249165,
+      "real power": 66.92762037264546,
+      "reactive power": 22.20236188528024,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 45.67159533574914,
+      "real power": 53.36522374781831,
+      "reactive power": 7.638870171599443,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 17.262043566513384,
+      "real power": 63.26622307990382,
+      "reactive power": 16.894332548704483,
+      "phases": "A"
+    }
+  },
+  "P29": {
+    "t0": {
+      "voltage": 49.78668035607857,
+      "real power": 60.55964691358948,
+      "reactive power": 51.66921506030499,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 47.515744379537075,
+      "real power": 18.51893808875309,
+      "reactive power": 36.68480811050934,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 62.93853194692307,
+      "real power": 41.490967348522425,
+      "reactive power": 68.7924108355523,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 56.32855888551007,
+      "real power": 30.026400245358488,
+      "reactive power": 81.54107213440922,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 41.76612406754664,
+      "real power": 37.65389042560644,
+      "reactive power": 91.1561296109295,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 26.6873407518591,
+      "real power": 60.804700265351386,
+      "reactive power": 35.703127845983964,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 16.826968323532355,
+      "real power": 93.86531017419001,
+      "reactive power": 68.75234894600662,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 52.022777524257805,
+      "real power": 28.35970605356497,
+      "reactive power": 22.542971832869952,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 62.30857471085135,
+      "real power": 6.498086814952908,
+      "reactive power": 57.439255492989595,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 65.99939743792554,
+      "real power": 27.389363484643113,
+      "reactive power": 26.867811317243373,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 7.048395515989315,
+      "real power": 65.73896791355843,
+      "reactive power": 45.261512104775846,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 3.035547026333285,
+      "real power": 44.87077766762766,
+      "reactive power": 77.04057690042254,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 6.427481819391501,
+      "real power": 76.928261481492,
+      "reactive power": 10.300934229210068,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 84.79287722351756,
+      "real power": 42.44068535748866,
+      "reactive power": 22.03052679114824,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 31.662010942444585,
+      "real power": 87.89970331729299,
+      "reactive power": 95.96932359778799,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 16.10285187858843,
+      "real power": 88.67136717888228,
+      "reactive power": 79.46014939754369,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 73.53702891212008,
+      "real power": 37.845683702825504,
+      "reactive power": 33.79131546334138,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 40.546710640124495,
+      "real power": 16.340616240600493,
+      "reactive power": 94.74586765642344,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 4.118758162552039,
+      "real power": 75.36012336027234,
+      "reactive power": 97.57438072302816,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 87.8437065195104,
+      "real power": 80.74120977431521,
+      "reactive power": 47.83872310646885,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 56.41090976352879,
+      "real power": 90.35265304576309,
+      "reactive power": 47.78763270020878,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 6.499183003470755,
+      "real power": 32.00635616852343,
+      "reactive power": 11.179095821985674,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 38.91533748512419,
+      "real power": 86.25201439444051,
+      "reactive power": 83.49278633977093,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 79.46965001030432,
+      "real power": 81.51241276792909,
+      "reactive power": 69.92456722123302,
+      "phases": "B"
+    }
+  },
+  "P30": {
+    "t0": {
+      "voltage": 11.174223801063544,
+      "real power": 12.262860490044158,
+      "reactive power": 12.67283937201784,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 41.358638805184654,
+      "real power": 32.95790041815879,
+      "reactive power": 13.153500178186949,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 53.484293457686505,
+      "real power": 90.21559054171772,
+      "reactive power": 44.22299805131116,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 82.04357350609425,
+      "real power": 31.383269184453777,
+      "reactive power": 5.374909772264735,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 10.851010268576811,
+      "real power": 71.1110840761848,
+      "reactive power": 61.30133610804741,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 30.011135434310066,
+      "real power": 57.902238551374666,
+      "reactive power": 95.27619007664903,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 89.09870707426067,
+      "real power": 25.14074059930972,
+      "reactive power": 46.430568911628114,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 11.953968081172818,
+      "real power": 12.70586860230356,
+      "reactive power": 6.923244787050075,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 41.91162202673219,
+      "real power": 94.39647222965726,
+      "reactive power": 9.170692614740805,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 98.36234464525593,
+      "real power": 90.10927019516976,
+      "reactive power": 57.81124235557028,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 8.555337968182863,
+      "real power": 34.68716081949212,
+      "reactive power": 21.22778607327749,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 93.20097001603227,
+      "real power": 86.16121505054154,
+      "reactive power": 69.4900959929878,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 2.2582884063231057,
+      "real power": 42.32983582436888,
+      "reactive power": 85.49392032466105,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 12.90075907274051,
+      "real power": 79.99308762803763,
+      "reactive power": 54.48251501542022,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 1.814941374141421,
+      "real power": 27.568632904409395,
+      "reactive power": 48.459337185794226,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 57.9353637334617,
+      "real power": 54.76782256417896,
+      "reactive power": 96.76804739192025,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 61.68170425541428,
+      "real power": 22.843112479936078,
+      "reactive power": 33.64354955835036,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 23.80617049367555,
+      "real power": 25.843778965939247,
+      "reactive power": 85.90090314770191,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 23.231305315867555,
+      "real power": 87.21310918749643,
+      "reactive power": 39.16190675126732,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 3.019459051519735,
+      "real power": 71.33694796645447,
+      "reactive power": 63.271547396837235,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 97.67224986413352,
+      "real power": 60.384567798050966,
+      "reactive power": 74.10031285984631,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 36.343528078795806,
+      "real power": 54.82617016277713,
+      "reactive power": 13.311688545209188,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 39.156499833789724,
+      "real power": 38.17331520186244,
+      "reactive power": 46.08085504520707,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 90.8598363762142,
+      "real power": 30.392641893681226,
+      "reactive power": 63.99803334744366,
+      "phases": "B"
+    }
+  },
+  "P31": {
+    "t0": {
+      "voltage": 2.047633539607019,
+      "real power": 25.145673627993848,
+      "reactive power": 26.220857389700726,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 64.25251820111822,
+      "real power": 25.305000446575033,
+      "reactive power": 69.40812649285036,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 21.17253022166813,
+      "real power": 75.34453903320183,
+      "reactive power": 74.85670368029342,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 35.4196063424412,
+      "real power": 22.45488147842545,
+      "reactive power": 76.16859517134802,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 27.486462863642824,
+      "real power": 9.342550999334875,
+      "reactive power": 9.252320052386388,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 94.42871105028755,
+      "real power": 17.483162599182876,
+      "reactive power": 50.7275688454224,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 31.307799109410983,
+      "real power": 71.55101676481999,
+      "reactive power": 72.75627537047983,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 66.1427776317747,
+      "real power": 58.7734116500356,
+      "reactive power": 38.97930362126709,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 54.07727311350725,
+      "real power": 97.34307076721956,
+      "reactive power": 52.705779620139296,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 47.33519453392322,
+      "real power": 39.56728872742906,
+      "reactive power": 11.94307764718172,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 8.931262500182836,
+      "real power": 83.1217052145051,
+      "reactive power": 13.284561373306081,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 59.86615168133185,
+      "real power": 85.87975059712686,
+      "reactive power": 83.2517953719032,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 54.01324298303538,
+      "real power": 6.2799506523926745,
+      "reactive power": 45.881423992057016,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 19.565275348879783,
+      "real power": 95.66258348126736,
+      "reactive power": 75.38022500077298,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 92.79519980041485,
+      "real power": 76.85846797135063,
+      "reactive power": 27.7677409370217,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 78.76105051320489,
+      "real power": 87.66137645501989,
+      "reactive power": 65.28885339714493,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 91.35797309508582,
+      "real power": 73.90994410076974,
+      "reactive power": 23.865587146544332,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 57.69335837605931,
+      "real power": 58.515473464282785,
+      "reactive power": 32.77725212644397,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 85.18536607362331,
+      "real power": 3.6205017987044896,
+      "reactive power": 18.645638860947088,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 12.110036342168407,
+      "real power": 9.068556542312667,
+      "reactive power": 0.5907455121695215,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 56.776336898751644,
+      "real power": 1.949917672837398,
+      "reactive power": 14.684770771814915,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 50.972746123662816,
+      "real power": 5.777016030876925,
+      "reactive power": 36.343081316329375,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 67.25486510176208,
+      "real power": 52.693923994461564,
+      "reactive power": 54.302621374939896,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 58.89312723234119,
+      "real power": 7.530817155903224,
+      "reactive power": 84.00765728434371,
+      "phases": "A"
+    }
+  },
+  "P32": {
+    "t0": {
+      "voltage": 21.91587410927608,
+      "real power": 28.897342751848566,
+      "reactive power": 70.10143648765383,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 8.19949217044944,
+      "real power": 27.50047281205038,
+      "reactive power": 45.639211040677466,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 62.28576238124829,
+      "real power": 69.815662226704,
+      "reactive power": 71.2459116607883,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 14.567398746494575,
+      "real power": 8.749584946914569,
+      "reactive power": 11.951449962508365,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 85.25255742779186,
+      "real power": 99.05015633993027,
+      "reactive power": 60.297658651423866,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 8.258652319286131,
+      "real power": 35.772487268314414,
+      "reactive power": 58.00481424750723,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 29.661091954722018,
+      "real power": 44.280236274160934,
+      "reactive power": 25.537458187888816,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 54.5349287866238,
+      "real power": 5.717526146877406,
+      "reactive power": 30.045934482849535,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 9.03778778961517,
+      "real power": 85.9168483415026,
+      "reactive power": 82.89005079574382,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 28.116607613176924,
+      "real power": 98.1768956210541,
+      "reactive power": 6.564645324343998,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 51.01867491701182,
+      "real power": 66.62477827596588,
+      "reactive power": 51.892606277536544,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 4.038047755478125,
+      "real power": 46.77049290301794,
+      "reactive power": 31.365587440507923,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 37.99538750939059,
+      "real power": 11.58056568776955,
+      "reactive power": 43.35872240882688,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 33.53663397755909,
+      "real power": 96.22459626147995,
+      "reactive power": 24.927577170144954,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 93.92455393347032,
+      "real power": 19.86199529858491,
+      "reactive power": 8.15073358997921,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 45.79948850183902,
+      "real power": 37.31472745879828,
+      "reactive power": 4.30609411673607,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 28.67118402980533,
+      "real power": 17.326344762230185,
+      "reactive power": 9.56226930441898,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 52.867311199370725,
+      "real power": 0.10553344815159571,
+      "reactive power": 58.332228957459385,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 41.747275718661356,
+      "real power": 75.18957408625997,
+      "reactive power": 68.51157146369144,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 90.92114450041629,
+      "real power": 92.00758056744554,
+      "reactive power": 75.12639304447343,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 15.160227807720961,
+      "real power": 69.64079511985862,
+      "reactive power": 77.71566169064388,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 26.917115986187223,
+      "real power": 17.361444545092354,
+      "reactive power": 15.249405290392094,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 60.83657517368085,
+      "real power": 65.95651928534535,
+      "reactive power": 37.66103293711376,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 7.510151910818053,
+      "real power": 33.80852217296674,
+      "reactive power": 76.881340975888,
+      "phases": "A"
+    }
+  },
+  "P33": {
+    "t0": {
+      "voltage": 10.519262987996603,
+      "real power": 91.75998175653555,
+      "reactive power": 29.07589906791006,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 76.21592501009198,
+      "real power": 67.71549673916553,
+      "reactive power": 82.9361617396872,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 22.678370037825612,
+      "real power": 71.62987917601886,
+      "reactive power": 44.61850849523999,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 98.72064595712486,
+      "real power": 49.54875628642406,
+      "reactive power": 0.5380601072300872,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 46.67914867033056,
+      "real power": 55.361575444748546,
+      "reactive power": 74.2867196445983,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 56.30060197118802,
+      "real power": 68.19963473643733,
+      "reactive power": 46.69796815746062,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 81.74331248945626,
+      "real power": 78.94422616359952,
+      "reactive power": 34.36509975760057,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 31.965997690540803,
+      "real power": 9.001943503514465,
+      "reactive power": 42.19962435744811,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 34.75813981277939,
+      "real power": 16.71299975419851,
+      "reactive power": 26.68527638315201,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 58.31515016040745,
+      "real power": 41.18571120183772,
+      "reactive power": 26.508879206509828,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 17.91765298536022,
+      "real power": 1.4678093923440882,
+      "reactive power": 29.762060672563095,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 17.6268568832733,
+      "real power": 9.868649757142645,
+      "reactive power": 82.51569474927827,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 78.5357357243995,
+      "real power": 21.985334805425772,
+      "reactive power": 69.64258651861198,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 79.0293522693532,
+      "real power": 12.547951175015392,
+      "reactive power": 58.42872410840152,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 9.883635502592147,
+      "real power": 81.60505761450301,
+      "reactive power": 11.382505221418239,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 93.48555982917281,
+      "real power": 80.2659536356418,
+      "reactive power": 55.568353115378365,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 75.39790228923971,
+      "real power": 36.71991676696577,
+      "reactive power": 20.99120675088494,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 39.01648951292497,
+      "real power": 75.49341165003469,
+      "reactive power": 4.686247976568925,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 15.471798962762684,
+      "real power": 59.19672079624595,
+      "reactive power": 57.72015272594746,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 43.87184649282595,
+      "real power": 7.13338749559963,
+      "reactive power": 87.77099170731563,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 96.89997425778868,
+      "real power": 94.26102977031492,
+      "reactive power": 0.367171406596134,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 46.97862182828426,
+      "real power": 23.82703115822171,
+      "reactive power": 8.457796803558681,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 80.0829728085189,
+      "real power": 36.30884391147335,
+      "reactive power": 59.5546198006607,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 87.32686352559367,
+      "real power": 88.131817436966,
+      "reactive power": 43.655618074794354,
+      "phases": "A"
+    }
+  },
+  "P34": {
+    "t0": {
+      "voltage": 80.02889560241071,
+      "real power": 99.49482203157723,
+      "reactive power": 40.19176754185069,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 22.074782845262895,
+      "real power": 74.7990302295922,
+      "reactive power": 70.72989324619554,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 19.13201485819598,
+      "real power": 57.7497148450801,
+      "reactive power": 42.93061562302676,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 12.324608831914308,
+      "real power": 32.72516772507487,
+      "reactive power": 65.29542891260837,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 83.3423018391301,
+      "real power": 29.99572031193638,
+      "reactive power": 79.58821280932251,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 81.64640811461042,
+      "real power": 40.23698918585744,
+      "reactive power": 24.261273897929925,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 60.14981115684691,
+      "real power": 97.07833975644377,
+      "reactive power": 73.5229695732726,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 25.145107352439833,
+      "real power": 59.64997440229066,
+      "reactive power": 83.50049609809837,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 48.67426549878856,
+      "real power": 42.63214058589867,
+      "reactive power": 62.67935582252705,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 6.120209619672023,
+      "real power": 59.29026353663169,
+      "reactive power": 72.63814029916549,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 8.821910321180738,
+      "real power": 82.77463955500524,
+      "reactive power": 13.700895721953554,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 7.040617984900022,
+      "real power": 90.84478629369184,
+      "reactive power": 66.14557894354807,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 57.254232176715824,
+      "real power": 57.58769839829634,
+      "reactive power": 19.25991375278985,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 61.93295786854881,
+      "real power": 76.40622857117705,
+      "reactive power": 48.99815673216865,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 28.34736335222511,
+      "real power": 83.78802566225687,
+      "reactive power": 75.92886798328415,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 63.08976435917501,
+      "real power": 62.99893533826377,
+      "reactive power": 45.53586649169,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 39.54990936673898,
+      "real power": 34.760079745497954,
+      "reactive power": 52.277749425061856,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 83.25630312650853,
+      "real power": 17.39798790888001,
+      "reactive power": 68.3169926755137,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 27.200485334737113,
+      "real power": 71.3142745318801,
+      "reactive power": 3.2536605058375523,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 3.977273558879646,
+      "real power": 24.337640766775227,
+      "reactive power": 86.60131538657816,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 41.8620925590497,
+      "real power": 52.41792391583344,
+      "reactive power": 51.66665860581681,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 12.95001555233366,
+      "real power": 64.20552577122969,
+      "reactive power": 89.77325366992036,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 3.0188434703281253,
+      "real power": 70.40737590788414,
+      "reactive power": 89.62045017220362,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 51.039333553746225,
+      "real power": 89.98564367785139,
+      "reactive power": 96.48718892816545,
+      "phases": "A"
+    }
+  },
+  "P35": {
+    "t0": {
+      "voltage": 24.059310754912023,
+      "real power": 73.58595956987153,
+      "reactive power": 27.80954512868967,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 64.70158514263977,
+      "real power": 97.92670967483097,
+      "reactive power": 23.47655325602258,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 90.8588120567461,
+      "real power": 23.82287891324324,
+      "reactive power": 58.00126282418838,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 37.60087777661785,
+      "real power": 63.39218270631556,
+      "reactive power": 20.970546155139026,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 45.562756781870995,
+      "real power": 39.53472714496565,
+      "reactive power": 57.93156032590926,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 41.10647493110437,
+      "real power": 67.5259990892733,
+      "reactive power": 92.71802796794539,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 11.016133511869475,
+      "real power": 6.15613296132328,
+      "reactive power": 4.858605023455887,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 4.779124269998459,
+      "real power": 57.8692155220071,
+      "reactive power": 97.45109782689654,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 77.36945567245375,
+      "real power": 20.552327370995084,
+      "reactive power": 69.36499284163656,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 25.979244466366147,
+      "real power": 4.234877045032526,
+      "reactive power": 79.36819848847027,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 5.644150360948763,
+      "real power": 79.402674464204,
+      "reactive power": 47.8479634602905,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 41.11242035145677,
+      "real power": 44.45006954131675,
+      "reactive power": 79.09811215907797,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 76.13864200525704,
+      "real power": 18.046440654176344,
+      "reactive power": 67.28233110649985,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 34.71887431023426,
+      "real power": 10.715125567335992,
+      "reactive power": 44.80476208384005,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 74.81718477046464,
+      "real power": 78.01381769122003,
+      "reactive power": 66.59926004105986,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 42.51956928361531,
+      "real power": 26.060374135250896,
+      "reactive power": 51.02321354828884,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 86.81642665089043,
+      "real power": 29.045703385990297,
+      "reactive power": 4.101344017950059,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 65.12844417887133,
+      "real power": 25.57433563429847,
+      "reactive power": 86.81778716164482,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 29.232564781208414,
+      "real power": 52.07414220859631,
+      "reactive power": 82.086496450618,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 65.1018744139681,
+      "real power": 18.521458633665013,
+      "reactive power": 33.693925565603266,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 53.051823907425224,
+      "real power": 97.47835784132933,
+      "reactive power": 2.8822957695576634,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 94.52751659571354,
+      "real power": 86.12996831507127,
+      "reactive power": 82.12303966457107,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 99.24391378821049,
+      "real power": 84.10289192577861,
+      "reactive power": 71.78019853068986,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 62.127871722402496,
+      "real power": 90.55710698709548,
+      "reactive power": 94.57760326076142,
+      "phases": "B"
+    }
+  },
+  "P36": {
+    "t0": {
+      "voltage": 20.220672570853825,
+      "real power": 74.07594872359034,
+      "reactive power": 91.0232230748116,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 72.83254132241187,
+      "real power": 66.38760348474806,
+      "reactive power": 55.372696473650386,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 46.883023255654486,
+      "real power": 24.274372895272155,
+      "reactive power": 80.13150316303037,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 87.22273938961888,
+      "real power": 40.702885054916294,
+      "reactive power": 69.45312676766639,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 61.54160258752349,
+      "real power": 75.27433036144366,
+      "reactive power": 91.24705364809667,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 42.106623100222684,
+      "real power": 27.40571328845166,
+      "reactive power": 34.250139593781384,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 88.54445704292479,
+      "real power": 99.22641836470325,
+      "reactive power": 14.233072797056213,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 89.26982340922798,
+      "real power": 55.38565726822103,
+      "reactive power": 85.16420395047832,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 24.88269325398789,
+      "real power": 92.2653858417798,
+      "reactive power": 95.17533973575988,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 27.104399067769403,
+      "real power": 58.95596126287409,
+      "reactive power": 18.94710830875126,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 40.95066633524308,
+      "real power": 1.0517584746802422,
+      "reactive power": 42.19039309627346,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 27.0275706834196,
+      "real power": 27.19909527162806,
+      "reactive power": 14.024911935597395,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 74.02206542180897,
+      "real power": 9.542451347636238,
+      "reactive power": 77.7109878978824,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 90.45908311500135,
+      "real power": 22.338224986439105,
+      "reactive power": 45.72030884082437,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 96.7596449961532,
+      "real power": 46.13476876358321,
+      "reactive power": 14.999815094199775,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 43.17082299879246,
+      "real power": 9.418136310449853,
+      "reactive power": 97.46437429084929,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 32.80801029768627,
+      "real power": 36.18102609712322,
+      "reactive power": 42.97266996599699,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 57.05906703460406,
+      "real power": 4.92346152123877,
+      "reactive power": 35.55446541443553,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 15.767386416139972,
+      "real power": 63.07655410126996,
+      "reactive power": 2.6592281653965544,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 43.513720564951896,
+      "real power": 67.83281995805666,
+      "reactive power": 5.963322676657645,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 80.57700925910709,
+      "real power": 3.2612425448769633,
+      "reactive power": 60.96900835720015,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 94.51358676353713,
+      "real power": 66.33341737429785,
+      "reactive power": 48.21823106681271,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 26.650692595528234,
+      "real power": 56.88693901166763,
+      "reactive power": 56.82185382860323,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 74.07407070559897,
+      "real power": 69.27298540924947,
+      "reactive power": 17.767516834509113,
+      "phases": "B"
+    }
+  },
+  "P37": {
+    "t0": {
+      "voltage": 86.29409143118855,
+      "real power": 96.18650081001263,
+      "reactive power": 38.573427627136866,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 7.324317377639023,
+      "real power": 52.04738254811251,
+      "reactive power": 55.404192136601615,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 90.30993690123412,
+      "real power": 61.36928422154961,
+      "reactive power": 35.62528514731118,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 16.755826094074234,
+      "real power": 58.285277903777946,
+      "reactive power": 28.851825504173988,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 82.54325899876113,
+      "real power": 42.28373687440909,
+      "reactive power": 70.6004292152852,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 22.120839357918108,
+      "real power": 75.84094257673186,
+      "reactive power": 43.86605133004148,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 68.9788938124981,
+      "real power": 47.63588130724086,
+      "reactive power": 61.15326833776391,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 19.149133547314058,
+      "real power": 13.318834084261633,
+      "reactive power": 33.14681180004227,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 85.86049523278115,
+      "real power": 65.36333815953394,
+      "reactive power": 87.5187082366903,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 76.5486294979288,
+      "real power": 38.8898889916825,
+      "reactive power": 27.397768035018576,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 28.820846394171763,
+      "real power": 30.234459038078864,
+      "reactive power": 9.138672783242718,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 55.34732974476938,
+      "real power": 37.989407452170035,
+      "reactive power": 14.451603378433553,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 87.38515036901997,
+      "real power": 6.899752926255031,
+      "reactive power": 69.0264949615354,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 66.5651542761734,
+      "real power": 27.479784613467505,
+      "reactive power": 49.98066552889038,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 4.05171711022414,
+      "real power": 65.02597127457052,
+      "reactive power": 69.18644371687249,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 58.94259034422941,
+      "real power": 84.84975829240155,
+      "reactive power": 91.962447504047,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 59.79274857050244,
+      "real power": 72.15839891268011,
+      "reactive power": 35.43708462624192,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 52.20184072746179,
+      "real power": 74.1438003395403,
+      "reactive power": 6.729773400460459,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 26.007742673043122,
+      "real power": 0.3576640725219016,
+      "reactive power": 89.82682042131793,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 21.176166229561378,
+      "real power": 56.87723707838324,
+      "reactive power": 23.305606482055772,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 96.26887687559264,
+      "real power": 68.43741110148716,
+      "reactive power": 38.335312447807645,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 8.532870646173507,
+      "real power": 52.50736979575611,
+      "reactive power": 86.25334899747742,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 78.82326601039144,
+      "real power": 43.04719898353504,
+      "reactive power": 16.027505645835127,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 92.83214259177214,
+      "real power": 76.72392069400816,
+      "reactive power": 12.602842036308992,
+      "phases": "A"
+    }
+  },
+  "P38": {
+    "t0": {
+      "voltage": 25.877814905172603,
+      "real power": 42.26076004852902,
+      "reactive power": 57.8197414565214,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 37.92147501848938,
+      "real power": 45.814140361777724,
+      "reactive power": 82.55259502841051,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 2.733710555355273,
+      "real power": 50.816423223190455,
+      "reactive power": 55.56282882713711,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 27.13662306139821,
+      "real power": 79.41334971993277,
+      "reactive power": 90.94544496864779,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 45.430076801870655,
+      "real power": 20.396907069541147,
+      "reactive power": 15.457696857514714,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 18.925836490078808,
+      "real power": 7.76377119860433,
+      "reactive power": 93.23433435475022,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 32.096044920568914,
+      "real power": 8.711862755001821,
+      "reactive power": 96.08524082216002,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 84.761259339982,
+      "real power": 16.877606573787173,
+      "reactive power": 96.62696532308644,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 75.14334118885283,
+      "real power": 43.59151967080732,
+      "reactive power": 58.00835236619574,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 89.64257815358171,
+      "real power": 18.36456217086403,
+      "reactive power": 0.3350503564915397,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 72.2119101752299,
+      "real power": 29.93251336647502,
+      "reactive power": 45.303011091262626,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 5.815742442255778,
+      "real power": 52.174660020641305,
+      "reactive power": 99.91537101776092,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 90.33913850564997,
+      "real power": 87.92331849623284,
+      "reactive power": 89.74061647136008,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 42.63998651927214,
+      "real power": 33.4416145726597,
+      "reactive power": 8.897741689337746,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 31.333284385436112,
+      "real power": 25.627931974731545,
+      "reactive power": 40.746295439080185,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 38.85141407637235,
+      "real power": 6.361385027288879,
+      "reactive power": 48.916163757907725,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 8.644244701229786,
+      "real power": 70.89234436208912,
+      "reactive power": 4.135666689268957,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 0.3932967666122611,
+      "real power": 62.809013441008986,
+      "reactive power": 96.63336081871925,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 33.7681113490416,
+      "real power": 49.49070122986471,
+      "reactive power": 18.179993598911693,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 69.17791559672771,
+      "real power": 80.38480674204595,
+      "reactive power": 31.977319885234458,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 29.424934081454257,
+      "real power": 98.81445238392661,
+      "reactive power": 83.6117861851059,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 11.369162205692252,
+      "real power": 3.4225920485889683,
+      "reactive power": 62.219362939171006,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 77.5420625920533,
+      "real power": 58.98612513043386,
+      "reactive power": 44.55810606591491,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 84.50770027332895,
+      "real power": 54.62242448469734,
+      "reactive power": 6.699894071970558,
+      "phases": "A"
+    }
+  },
+  "P39": {
+    "t0": {
+      "voltage": 32.47305178511165,
+      "real power": 52.79948196367658,
+      "reactive power": 40.326751170558516,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 36.52679130833445,
+      "real power": 11.119436296583219,
+      "reactive power": 21.67578378947872,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 62.015468181119346,
+      "real power": 13.210050833996556,
+      "reactive power": 29.36406249485588,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 56.589845376849524,
+      "real power": 63.194897898803035,
+      "reactive power": 94.5549970741023,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 96.53787569570986,
+      "real power": 12.269862514084629,
+      "reactive power": 57.396894032341606,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 86.37688565859992,
+      "real power": 96.68432662020979,
+      "reactive power": 78.50983798223454,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 61.17861992100179,
+      "real power": 81.34042283097604,
+      "reactive power": 94.61549991071793,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 64.6402788271755,
+      "real power": 69.42134430639099,
+      "reactive power": 47.350398743915,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 62.64763191214092,
+      "real power": 80.69728018075838,
+      "reactive power": 34.297874430639055,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 64.91239031235851,
+      "real power": 36.748900964436835,
+      "reactive power": 17.339280551867375,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 79.90960413454515,
+      "real power": 22.669551694822477,
+      "reactive power": 3.0049767561931895,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 1.0366823806696845,
+      "real power": 72.05759661286332,
+      "reactive power": 68.23373403876344,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 18.139655216681238,
+      "real power": 62.383547499599516,
+      "reactive power": 66.38392102242683,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 44.90896591114758,
+      "real power": 9.219052019312446,
+      "reactive power": 64.85454825309382,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 52.28625845350947,
+      "real power": 98.20477336665869,
+      "reactive power": 4.770044255101924,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 36.437958887177516,
+      "real power": 61.04026357909977,
+      "reactive power": 68.55226296763533,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 51.257944647381194,
+      "real power": 59.704336327985544,
+      "reactive power": 6.404177338481254,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 23.51670905288851,
+      "real power": 96.71699432820706,
+      "reactive power": 46.49731754095121,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 13.044452951484963,
+      "real power": 43.251606370205096,
+      "reactive power": 71.33406953923681,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 64.87423468698721,
+      "real power": 96.66716421372315,
+      "reactive power": 61.90532740207092,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 2.2742339647173093,
+      "real power": 94.21711385912253,
+      "reactive power": 83.54243008570974,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 39.54888197733959,
+      "real power": 0.3309633506756282,
+      "reactive power": 7.705909370655295,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 99.71150284185124,
+      "real power": 50.55818194027546,
+      "reactive power": 47.61451483722967,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 41.95780663829518,
+      "real power": 66.66651837972076,
+      "reactive power": 40.68157918625125,
+      "phases": "A"
+    }
+  },
+  "P40": {
+    "t0": {
+      "voltage": 44.26735095582743,
+      "real power": 47.50635843358669,
+      "reactive power": 54.31334788598454,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 60.452913745005645,
+      "real power": 3.0481919783026834,
+      "reactive power": 67.31080382935268,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 21.1791340603396,
+      "real power": 15.330242297658724,
+      "reactive power": 18.487694520456188,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 44.541543687250865,
+      "real power": 74.72069105392572,
+      "reactive power": 69.11126098384108,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 42.4897191455076,
+      "real power": 24.557801508485866,
+      "reactive power": 79.38897676629598,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 50.35663924616859,
+      "real power": 94.20213540946155,
+      "reactive power": 13.457273860335583,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 33.6533481087819,
+      "real power": 39.58628944279392,
+      "reactive power": 0.979602556778314,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 36.61928324421632,
+      "real power": 63.01207210907366,
+      "reactive power": 7.310169076094941,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 79.98832555269473,
+      "real power": 2.1114863478050694,
+      "reactive power": 2.3507695383100824,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 69.70698260319514,
+      "real power": 67.9608379168796,
+      "reactive power": 5.181841386374863,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 13.49269979856562,
+      "real power": 62.36765797691331,
+      "reactive power": 71.61573740876216,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 2.653044495375345,
+      "real power": 35.75216192920448,
+      "reactive power": 34.19156794668407,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 23.03942364050069,
+      "real power": 82.59979195597322,
+      "reactive power": 42.79269636980786,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 36.793686764586774,
+      "real power": 77.00777372602889,
+      "reactive power": 53.499586077814065,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 8.372064115414213,
+      "real power": 61.21299709404371,
+      "reactive power": 37.619401886069205,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 35.97947482290221,
+      "real power": 18.902347524015926,
+      "reactive power": 51.64385848033628,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 15.961182931045414,
+      "real power": 80.67216960570502,
+      "reactive power": 20.487316251672194,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 33.869350515744344,
+      "real power": 70.65375913352091,
+      "reactive power": 25.72512390755024,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 65.81651814041469,
+      "real power": 46.63857418377131,
+      "reactive power": 11.290480760970178,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 5.137287777878152,
+      "real power": 16.077018421642375,
+      "reactive power": 75.51034751459231,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 19.29256757356964,
+      "real power": 97.99070320770186,
+      "reactive power": 67.01143786224429,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 27.927824183737716,
+      "real power": 78.25848739816507,
+      "reactive power": 7.234371581924481,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 30.479969867142763,
+      "real power": 76.00328912757021,
+      "reactive power": 22.29914888127237,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 7.631019149893681,
+      "real power": 22.788076541235426,
+      "reactive power": 67.0551970019209,
+      "phases": "A"
+    }
+  },
+  "P41": {
+    "t0": {
+      "voltage": 16.013018075981165,
+      "real power": 33.719102047213354,
+      "reactive power": 28.190969515741482,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 92.10304181888648,
+      "real power": 37.07866248090919,
+      "reactive power": 62.81941039094418,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 48.561449780922075,
+      "real power": 34.29976590539672,
+      "reactive power": 72.22083472622126,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 47.72122401166007,
+      "real power": 48.778877995557,
+      "reactive power": 66.18934391402298,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 86.20024868541249,
+      "real power": 36.09848105167731,
+      "reactive power": 73.5733078332318,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 97.23660341399186,
+      "real power": 90.78880418525084,
+      "reactive power": 78.45401655562776,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 77.90240323705653,
+      "real power": 18.13878023799672,
+      "reactive power": 62.63573287083924,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 17.093501042545956,
+      "real power": 1.700006452765157,
+      "reactive power": 40.192725381362926,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 37.80378922552976,
+      "real power": 37.43979755292833,
+      "reactive power": 34.76856184908333,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 76.45883686557285,
+      "real power": 3.164938547523599,
+      "reactive power": 73.81531812889719,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 37.72760907695082,
+      "real power": 54.681356286461636,
+      "reactive power": 43.87458518081022,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 88.3343624722337,
+      "real power": 2.114425127800157,
+      "reactive power": 2.786581974542479,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 76.0710325317998,
+      "real power": 78.69650882565382,
+      "reactive power": 37.70521611140355,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 14.856912792815036,
+      "real power": 13.180147000926201,
+      "reactive power": 62.202705159319336,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 49.321847117377104,
+      "real power": 17.229076088269192,
+      "reactive power": 71.70114607170719,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 61.40659574034216,
+      "real power": 84.81046384136496,
+      "reactive power": 63.096297039687386,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 95.21586592582076,
+      "real power": 54.438716801984825,
+      "reactive power": 4.159670905689772,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 70.2472495701207,
+      "real power": 74.96896568301781,
+      "reactive power": 25.78008963165821,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 62.242321579370895,
+      "real power": 34.78039316519923,
+      "reactive power": 95.10552407107882,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 49.375004165287976,
+      "real power": 57.67764182917278,
+      "reactive power": 26.92243871742438,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 17.43703638408197,
+      "real power": 1.2403329313967926,
+      "reactive power": 97.34210461408973,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 78.9489223055423,
+      "real power": 97.4445255469369,
+      "reactive power": 95.29870217529808,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 51.78401132308375,
+      "real power": 83.18971292670496,
+      "reactive power": 93.9974539642247,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 55.5935953572519,
+      "real power": 88.88940258829928,
+      "reactive power": 47.70166464773313,
+      "phases": "A"
+    }
+  },
+  "P42": {
+    "t0": {
+      "voltage": 99.00241978403473,
+      "real power": 55.053222973002306,
+      "reactive power": 97.82406905531609,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 34.61795167040942,
+      "real power": 66.91655963062072,
+      "reactive power": 93.04374345991921,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 10.311656528056034,
+      "real power": 77.42348774549649,
+      "reactive power": 38.316504089724134,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 87.8957284599327,
+      "real power": 6.3361874780598075,
+      "reactive power": 51.18134253022589,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 38.61036377250612,
+      "real power": 98.23824424418987,
+      "reactive power": 62.87348468607896,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 90.64663542310578,
+      "real power": 49.61014666769691,
+      "reactive power": 81.91892618066854,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 16.12424454154948,
+      "real power": 88.7620522154287,
+      "reactive power": 35.993632837186254,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 66.91639157997673,
+      "real power": 37.874685191981314,
+      "reactive power": 31.60963286351982,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 57.23995723134237,
+      "real power": 26.755486875661948,
+      "reactive power": 54.78706360465525,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 40.44194898871854,
+      "real power": 71.18887577292885,
+      "reactive power": 13.559430762107672,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 56.18623837195279,
+      "real power": 2.4338714236602055,
+      "reactive power": 48.47921542817285,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 64.9090341112209,
+      "real power": 68.55847388401607,
+      "reactive power": 14.593841886790804,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 32.581802551138864,
+      "real power": 7.127143190943819,
+      "reactive power": 92.09631341814686,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 51.25143679418355,
+      "real power": 82.29082309241022,
+      "reactive power": 6.631489291960479,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 74.42642851855263,
+      "real power": 60.209379009315754,
+      "reactive power": 45.49241550453175,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 95.66711277643698,
+      "real power": 17.24778038388748,
+      "reactive power": 94.59827936723939,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 52.31197470851468,
+      "real power": 10.331275521780103,
+      "reactive power": 6.5509173145452015,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 37.188219180208215,
+      "real power": 27.942083113012238,
+      "reactive power": 6.168446383305792,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 15.37308461112844,
+      "real power": 27.599806771735167,
+      "reactive power": 37.113056276715774,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 18.234388173104698,
+      "real power": 3.225922020385563,
+      "reactive power": 70.80509350801067,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 88.38074067834104,
+      "real power": 58.87977181380649,
+      "reactive power": 28.333259275463483,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 60.69412348078197,
+      "real power": 88.24188897284398,
+      "reactive power": 35.07683093450878,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 89.86632002725705,
+      "real power": 90.31029674080631,
+      "reactive power": 99.79211589578347,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 37.71129526082986,
+      "real power": 51.80543533308899,
+      "reactive power": 8.015444752161837,
+      "phases": "A"
+    }
+  },
+  "P43": {
+    "t0": {
+      "voltage": 96.43674963647486,
+      "real power": 23.640199341736956,
+      "reactive power": 25.00782643315702,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 80.95112826578311,
+      "real power": 67.03861842693608,
+      "reactive power": 90.0954342743301,
+      "phases": "B"
+    },
+    "t2": {
+      "voltage": 60.3837156480583,
+      "real power": 92.23298657469518,
+      "reactive power": 98.36907777385845,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 38.7731285675079,
+      "real power": 12.799553054757784,
+      "reactive power": 9.29070160411769,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 12.316161610170662,
+      "real power": 30.525109966075405,
+      "reactive power": 19.344010509151953,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 65.81194451964217,
+      "real power": 31.883621295360175,
+      "reactive power": 49.62397763980544,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 65.22906106038441,
+      "real power": 9.612629507409142,
+      "reactive power": 5.067653112787596,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 67.02116568595387,
+      "real power": 3.2656090543184413,
+      "reactive power": 70.65698247916774,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 4.421188628518569,
+      "real power": 91.80522163086468,
+      "reactive power": 72.33594699474817,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 18.91699292543123,
+      "real power": 65.4987502542186,
+      "reactive power": 98.88744823041962,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 26.392852885107164,
+      "real power": 43.40989984911183,
+      "reactive power": 30.982653387801108,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 75.2836907350501,
+      "real power": 60.22971992630852,
+      "reactive power": 88.4837032234171,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 0.1316891590595448,
+      "real power": 64.58029572178164,
+      "reactive power": 42.89380047923448,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 76.20066941036315,
+      "real power": 95.13814016300168,
+      "reactive power": 82.34057174211425,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 90.11799442357045,
+      "real power": 89.40439985418077,
+      "reactive power": 92.66552993619229,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 37.58584923411519,
+      "real power": 88.60874275070861,
+      "reactive power": 17.105675654973307,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 53.930970930592224,
+      "real power": 95.53287584942126,
+      "reactive power": 29.685884126092745,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 18.959935080447266,
+      "real power": 59.34729120696021,
+      "reactive power": 87.20775499723042,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 95.84831044755212,
+      "real power": 26.373942761385383,
+      "reactive power": 63.162124754069495,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 52.28549082054995,
+      "real power": 33.34371105964149,
+      "reactive power": 67.25481162893547,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 94.07000394985262,
+      "real power": 19.6081578922618,
+      "reactive power": 84.177754677464,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 42.09714833456019,
+      "real power": 76.63013140951436,
+      "reactive power": 85.74045764420177,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 6.326130821584764,
+      "real power": 97.31214038266145,
+      "reactive power": 36.45733051508914,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 12.316976551561753,
+      "real power": 38.94797092064963,
+      "reactive power": 45.72893572551058,
+      "phases": "A"
+    }
+  },
+  "P44": {
+    "t0": {
+      "voltage": 40.59898896817268,
+      "real power": 1.6375288534033916,
+      "reactive power": 65.00169835024009,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 24.976124605830453,
+      "real power": 82.52477810613914,
+      "reactive power": 46.75035931241972,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 86.55873809158,
+      "real power": 62.603906298751944,
+      "reactive power": 60.29375530560657,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 40.2239412372278,
+      "real power": 90.10413905918057,
+      "reactive power": 92.79285760285089,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 39.23769736821464,
+      "real power": 95.23219796922234,
+      "reactive power": 88.674302847355,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 78.47521882907704,
+      "real power": 90.94362240679403,
+      "reactive power": 45.28677191430185,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 22.986987305840145,
+      "real power": 71.4985187747086,
+      "reactive power": 47.959681943676514,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 69.3720705342972,
+      "real power": 28.907233863562563,
+      "reactive power": 42.99184017063718,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 78.82395463826485,
+      "real power": 54.36802806165573,
+      "reactive power": 50.86877736172999,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 95.53439763905071,
+      "real power": 52.9554066259262,
+      "reactive power": 9.230093181671439,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 45.08518073688735,
+      "real power": 23.400444609415093,
+      "reactive power": 68.5752409138264,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 9.720271797920944,
+      "real power": 1.2334554077551574,
+      "reactive power": 36.12775539473604,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 43.19566092588452,
+      "real power": 68.84777426463363,
+      "reactive power": 41.314850547704594,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 24.330078872138692,
+      "real power": 28.516140501827625,
+      "reactive power": 78.87761007673309,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 85.81265636335674,
+      "real power": 72.95235216035752,
+      "reactive power": 53.26780073032873,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 14.344661878206377,
+      "real power": 2.2168291972554988,
+      "reactive power": 76.04337271188173,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 82.9168377620478,
+      "real power": 21.975186549261792,
+      "reactive power": 82.6573859567962,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 23.900177773626872,
+      "real power": 98.76841411464345,
+      "reactive power": 62.184390256046385,
+      "phases": "A"
+    },
+    "t18": {
+      "voltage": 96.88959803858505,
+      "real power": 83.02114475015911,
+      "reactive power": 34.58054805589791,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 64.65158589922045,
+      "real power": 48.011964625364115,
+      "reactive power": 4.380323342673886,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 16.975916795345746,
+      "real power": 3.7703896885136867,
+      "reactive power": 66.7966263406902,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 50.19757865331576,
+      "real power": 52.14745547776598,
+      "reactive power": 8.673537029982892,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 19.49275543961052,
+      "real power": 68.89997740812413,
+      "reactive power": 77.85823020227267,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 28.133376823788925,
+      "real power": 71.9091488968856,
+      "reactive power": 20.629529414852144,
+      "phases": "A"
+    }
+  },
+  "P45": {
+    "t0": {
+      "voltage": 98.67504024688218,
+      "real power": 11.057663725821254,
+      "reactive power": 72.88121266898034,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 80.80407198761587,
+      "real power": 62.85140693929498,
+      "reactive power": 82.24123868420591,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 41.1009807433795,
+      "real power": 72.97849323995871,
+      "reactive power": 53.394657253353614,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 8.118731995081873,
+      "real power": 2.99156913148646,
+      "reactive power": 5.717670303077904,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 39.844044490914456,
+      "real power": 93.5955493924955,
+      "reactive power": 87.23272392433731,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 43.904807253616575,
+      "real power": 45.120393064880915,
+      "reactive power": 36.626488197830085,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 65.69322583153811,
+      "real power": 71.30293612333055,
+      "reactive power": 83.47790794895725,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 85.55747786159081,
+      "real power": 89.46215703825459,
+      "reactive power": 73.89766281990511,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 5.510834271400578,
+      "real power": 91.87595141625454,
+      "reactive power": 72.2932068656449,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 37.771733995378995,
+      "real power": 88.00168717137599,
+      "reactive power": 95.08739700376273,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 29.031827577118097,
+      "real power": 88.57004965638282,
+      "reactive power": 24.241769320295393,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 76.12471176578852,
+      "real power": 66.0606638356405,
+      "reactive power": 43.02647511177201,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 9.998305617350766,
+      "real power": 87.92993845876563,
+      "reactive power": 66.97987353980093,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 57.93876897977164,
+      "real power": 64.7341205070975,
+      "reactive power": 11.35625237002037,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 30.689348441663324,
+      "real power": 47.90588439799319,
+      "reactive power": 71.17051938265912,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 87.54475438921153,
+      "real power": 4.857360066448402,
+      "reactive power": 73.83661392053811,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 79.03522561132661,
+      "real power": 89.95434365566008,
+      "reactive power": 85.36168345729358,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 52.05784171115996,
+      "real power": 37.16694241513016,
+      "reactive power": 62.02620852490374,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 18.206664104088787,
+      "real power": 76.24505308548024,
+      "reactive power": 74.9068256406211,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 21.256886374953908,
+      "real power": 66.91483508067832,
+      "reactive power": 86.98754956202794,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 0.9445111312610721,
+      "real power": 82.71886660354785,
+      "reactive power": 44.267335662722,
+      "phases": "A"
+    },
+    "t21": {
+      "voltage": 9.721495738612674,
+      "real power": 5.0570054388269,
+      "reactive power": 76.49888888934396,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 86.23201966765559,
+      "real power": 53.638392598277164,
+      "reactive power": 42.528826953015674,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 77.63284084237667,
+      "real power": 55.19318355009505,
+      "reactive power": 53.881911435872055,
+      "phases": "B"
+    }
+  },
+  "P46": {
+    "t0": {
+      "voltage": 19.803936882724326,
+      "real power": 84.4537167496399,
+      "reactive power": 28.205756117468628,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 94.13571834553089,
+      "real power": 22.033972599794748,
+      "reactive power": 40.71554123729628,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 72.67167102344303,
+      "real power": 51.303406770354144,
+      "reactive power": 99.01117592460834,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 82.9266928970563,
+      "real power": 21.70041589313395,
+      "reactive power": 79.51994701176392,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 54.90256665762308,
+      "real power": 84.06762989500191,
+      "reactive power": 48.38908252584536,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 43.860097088578065,
+      "real power": 36.206177503741834,
+      "reactive power": 96.66411822342025,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 14.2425098050302,
+      "real power": 94.02366961714104,
+      "reactive power": 13.424097648359357,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 29.00721881958678,
+      "real power": 82.24274537996192,
+      "reactive power": 17.144546384616667,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 69.28789426457833,
+      "real power": 54.70087283960425,
+      "reactive power": 21.793230659605868,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 95.78839379476983,
+      "real power": 82.64061205118243,
+      "reactive power": 91.97730923602268,
+      "phases": "A"
+    },
+    "t10": {
+      "voltage": 10.576591337461638,
+      "real power": 37.93293470072058,
+      "reactive power": 92.60690846824868,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 0.2827874529658714,
+      "real power": 35.37503787506313,
+      "reactive power": 83.23097750537997,
+      "phases": "A"
+    },
+    "t12": {
+      "voltage": 64.8381604016711,
+      "real power": 81.428679318779,
+      "reactive power": 30.688604622590134,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 74.80123903297144,
+      "real power": 93.41077319135547,
+      "reactive power": 92.0792762851042,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 79.84733553613874,
+      "real power": 7.905501432385509,
+      "reactive power": 74.80940297015748,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 37.93567117210659,
+      "real power": 34.55412397297359,
+      "reactive power": 22.27064564674377,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 3.8554632507722397,
+      "real power": 71.62827918296557,
+      "reactive power": 88.01889756686849,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 16.53265396221516,
+      "real power": 20.42349052017708,
+      "reactive power": 62.46706597685443,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 4.182403884955644,
+      "real power": 49.652796306032364,
+      "reactive power": 82.70165902443108,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 52.02351851985966,
+      "real power": 20.20374385979834,
+      "reactive power": 85.0040281003684,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 9.713573973572975,
+      "real power": 69.64910461274978,
+      "reactive power": 47.02684178216783,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 69.6704611963816,
+      "real power": 18.073604051704617,
+      "reactive power": 27.13064562742996,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 19.01896330426783,
+      "real power": 76.68325302956298,
+      "reactive power": 52.116003824580716,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 46.074696136655845,
+      "real power": 18.58119633395662,
+      "reactive power": 79.47428811341808,
+      "phases": "A"
+    }
+  },
+  "P47": {
+    "t0": {
+      "voltage": 12.698217988129912,
+      "real power": 90.08630956887814,
+      "reactive power": 52.125253843679744,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 64.10478244634467,
+      "real power": 74.23256819669048,
+      "reactive power": 17.497464742645096,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 97.88305174060183,
+      "real power": 95.64234683295263,
+      "reactive power": 71.19042532413266,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 38.714890129214005,
+      "real power": 15.886136681213959,
+      "reactive power": 47.212813728812606,
+      "phases": "B"
+    },
+    "t4": {
+      "voltage": 0.5189491860998374,
+      "real power": 14.92161933852133,
+      "reactive power": 5.566422886659428,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 2.9858944914488483,
+      "real power": 75.9968876576973,
+      "reactive power": 48.77067595180319,
+      "phases": "A"
+    },
+    "t6": {
+      "voltage": 69.60377254035188,
+      "real power": 34.884340632503566,
+      "reactive power": 92.19390804361673,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 75.48645444547292,
+      "real power": 12.725570715206135,
+      "reactive power": 22.849927436700323,
+      "phases": "B"
+    },
+    "t8": {
+      "voltage": 21.181604609324644,
+      "real power": 17.056205674858095,
+      "reactive power": 60.896175047786315,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 56.92050332837728,
+      "real power": 86.13165014798005,
+      "reactive power": 47.002684104928974,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 60.04200195562191,
+      "real power": 58.197630132491305,
+      "reactive power": 58.702578913070234,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 12.172742787297231,
+      "real power": 56.53940531396987,
+      "reactive power": 91.26099232834292,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 84.33833355720289,
+      "real power": 85.84032807276918,
+      "reactive power": 76.77488693647744,
+      "phases": "A"
+    },
+    "t13": {
+      "voltage": 39.99268126798234,
+      "real power": 67.93640850642876,
+      "reactive power": 99.4273580575789,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 68.30157912320345,
+      "real power": 70.48205862086203,
+      "reactive power": 23.905827275695803,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 43.330120868132724,
+      "real power": 44.25865383232651,
+      "reactive power": 9.783492517770597,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 64.07629697307897,
+      "real power": 25.64338133674563,
+      "reactive power": 79.53434051655755,
+      "phases": "B"
+    },
+    "t17": {
+      "voltage": 99.81386403971835,
+      "real power": 86.06373470698675,
+      "reactive power": 27.809591962167822,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 35.76238703569903,
+      "real power": 39.48356311293454,
+      "reactive power": 55.42395447380598,
+      "phases": "B"
+    },
+    "t19": {
+      "voltage": 39.77772903113117,
+      "real power": 28.65327502272995,
+      "reactive power": 55.839282881650675,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 30.741208604903868,
+      "real power": 74.48054930250562,
+      "reactive power": 63.090606189810806,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 71.85908091875474,
+      "real power": 18.6052388326986,
+      "reactive power": 71.57192227129308,
+      "phases": "B"
+    },
+    "t22": {
+      "voltage": 81.62855143175088,
+      "real power": 52.963489948385515,
+      "reactive power": 65.54769583514938,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 78.90946686685211,
+      "real power": 73.8423681716609,
+      "reactive power": 12.291389359829875,
+      "phases": "A"
+    }
+  },
+  "P48": {
+    "t0": {
+      "voltage": 43.02927559215396,
+      "real power": 83.6029404067748,
+      "reactive power": 85.57299097433237,
+      "phases": "A"
+    },
+    "t1": {
+      "voltage": 6.374666237432535,
+      "real power": 40.56977729055309,
+      "reactive power": 34.608844801129834,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 54.71701430841074,
+      "real power": 50.50526947921566,
+      "reactive power": 64.73318296204012,
+      "phases": "B"
+    },
+    "t3": {
+      "voltage": 24.891709327821044,
+      "real power": 28.703305209090267,
+      "reactive power": 75.36084601635478,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 82.90702770443214,
+      "real power": 59.142216865613726,
+      "reactive power": 88.84642146589252,
+      "phases": "A"
+    },
+    "t5": {
+      "voltage": 86.19933320086513,
+      "real power": 20.68791347606783,
+      "reactive power": 89.40258385758109,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 67.86189242379557,
+      "real power": 84.0948018489166,
+      "reactive power": 8.540502753989143,
+      "phases": "A"
+    },
+    "t7": {
+      "voltage": 5.451409518311157,
+      "real power": 74.21817844445907,
+      "reactive power": 85.48859623439577,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 26.88899802218464,
+      "real power": 2.2745602810641086,
+      "reactive power": 83.44211278213571,
+      "phases": "A"
+    },
+    "t9": {
+      "voltage": 62.36501419175667,
+      "real power": 3.0156077809315396,
+      "reactive power": 39.151180764670535,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 12.771978506360737,
+      "real power": 98.88222721174805,
+      "reactive power": 37.05089759846191,
+      "phases": "A"
+    },
+    "t11": {
+      "voltage": 38.69042158496745,
+      "real power": 21.852727750877076,
+      "reactive power": 91.64563772793143,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 67.46759523557154,
+      "real power": 66.4208293748429,
+      "reactive power": 55.84464791420367,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 14.65321798132968,
+      "real power": 1.1926613863700641,
+      "reactive power": 54.509949908648366,
+      "phases": "B"
+    },
+    "t14": {
+      "voltage": 54.492172192279156,
+      "real power": 29.818193550162153,
+      "reactive power": 89.9702411597759,
+      "phases": "B"
+    },
+    "t15": {
+      "voltage": 41.81079973528592,
+      "real power": 71.04022147861079,
+      "reactive power": 38.54872996953533,
+      "phases": "A"
+    },
+    "t16": {
+      "voltage": 6.619524387220599,
+      "real power": 65.70182258388918,
+      "reactive power": 28.44051163582224,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 18.63568488420364,
+      "real power": 10.839809188097071,
+      "reactive power": 5.425397843057556,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 46.07258369299269,
+      "real power": 1.6246060896034975,
+      "reactive power": 7.01290483683824,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 57.000675406016434,
+      "real power": 70.62245174393442,
+      "reactive power": 94.85371895970395,
+      "phases": "B"
+    },
+    "t20": {
+      "voltage": 46.13783940497234,
+      "real power": 67.098262952822,
+      "reactive power": 7.522896516989041,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 53.5888955266142,
+      "real power": 95.79949395843408,
+      "reactive power": 20.220996986264815,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 42.59309225120602,
+      "real power": 69.18578940751866,
+      "reactive power": 10.09313293408688,
+      "phases": "B"
+    },
+    "t23": {
+      "voltage": 71.972290273464,
+      "real power": 21.68039643332229,
+      "reactive power": 54.57616127180296,
+      "phases": "A"
+    }
+  },
+  "P49": {
+    "t0": {
+      "voltage": 40.20860566878919,
+      "real power": 78.0981885909089,
+      "reactive power": 73.6549992259799,
+      "phases": "B"
+    },
+    "t1": {
+      "voltage": 91.95601183603522,
+      "real power": 41.60757396412519,
+      "reactive power": 61.69113262668209,
+      "phases": "A"
+    },
+    "t2": {
+      "voltage": 53.78833942647998,
+      "real power": 24.560082978524612,
+      "reactive power": 73.94962825135532,
+      "phases": "A"
+    },
+    "t3": {
+      "voltage": 2.0852274563628814,
+      "real power": 81.09159767619262,
+      "reactive power": 66.27337277531285,
+      "phases": "A"
+    },
+    "t4": {
+      "voltage": 2.4872045783081997,
+      "real power": 61.35898178594579,
+      "reactive power": 43.14057856875178,
+      "phases": "B"
+    },
+    "t5": {
+      "voltage": 21.63638654607558,
+      "real power": 32.05819627634621,
+      "reactive power": 64.40377764386041,
+      "phases": "B"
+    },
+    "t6": {
+      "voltage": 3.149217255020109,
+      "real power": 32.80267145166559,
+      "reactive power": 7.0846594392634294,
+      "phases": "B"
+    },
+    "t7": {
+      "voltage": 42.23487976946729,
+      "real power": 94.361537269702,
+      "reactive power": 48.49487878674651,
+      "phases": "A"
+    },
+    "t8": {
+      "voltage": 0.6017441815726277,
+      "real power": 70.0737762151271,
+      "reactive power": 97.82348612726246,
+      "phases": "B"
+    },
+    "t9": {
+      "voltage": 26.188695783222393,
+      "real power": 13.464767274220213,
+      "reactive power": 42.49475240919731,
+      "phases": "B"
+    },
+    "t10": {
+      "voltage": 20.375930982244384,
+      "real power": 15.50075108202904,
+      "reactive power": 23.426760909651236,
+      "phases": "B"
+    },
+    "t11": {
+      "voltage": 83.3327480705065,
+      "real power": 8.962493215013867,
+      "reactive power": 94.13808194867357,
+      "phases": "B"
+    },
+    "t12": {
+      "voltage": 90.35477458592739,
+      "real power": 63.78754568586974,
+      "reactive power": 11.468492803609397,
+      "phases": "B"
+    },
+    "t13": {
+      "voltage": 45.72641721159233,
+      "real power": 92.41681012919103,
+      "reactive power": 57.16338269190907,
+      "phases": "A"
+    },
+    "t14": {
+      "voltage": 5.830180045508437,
+      "real power": 72.03476958221519,
+      "reactive power": 46.953643246119945,
+      "phases": "A"
+    },
+    "t15": {
+      "voltage": 50.60800217157563,
+      "real power": 80.14189889560842,
+      "reactive power": 93.70019035394283,
+      "phases": "B"
+    },
+    "t16": {
+      "voltage": 15.32547126317697,
+      "real power": 52.779440435676136,
+      "reactive power": 99.02438319910051,
+      "phases": "A"
+    },
+    "t17": {
+      "voltage": 3.3270977864305773,
+      "real power": 4.088786503970332,
+      "reactive power": 28.33521869203396,
+      "phases": "B"
+    },
+    "t18": {
+      "voltage": 85.83582009699977,
+      "real power": 50.10048117507178,
+      "reactive power": 41.77792054681141,
+      "phases": "A"
+    },
+    "t19": {
+      "voltage": 86.6783108873244,
+      "real power": 45.93371046104296,
+      "reactive power": 86.47302419759562,
+      "phases": "A"
+    },
+    "t20": {
+      "voltage": 63.63820415096079,
+      "real power": 75.90305704518782,
+      "reactive power": 2.6102378059318365,
+      "phases": "B"
+    },
+    "t21": {
+      "voltage": 53.21432954960324,
+      "real power": 4.98921249215506,
+      "reactive power": 95.09289930161296,
+      "phases": "A"
+    },
+    "t22": {
+      "voltage": 15.090846574114403,
+      "real power": 72.18646889578896,
+      "reactive power": 71.44000782292913,
+      "phases": "A"
+    },
+    "t23": {
+      "voltage": 73.91795195741491,
+      "real power": 91.2288481785971,
+      "reactive power": 28.25997776837166,
+      "phases": "A"
+    }
+  }
+}
